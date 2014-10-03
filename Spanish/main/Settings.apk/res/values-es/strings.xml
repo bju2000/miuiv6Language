@@ -2942,4 +2942,103 @@
 	<string name="battery_settings_novotools">Ajustes Extra</string>
 	<string name="battery_settings_freezer">Congelar Apps</string>
 	<string name="battery_settings_novotools_lite">Modo Memoria</string>
+	<string name="schedule_power_on_off_settings_title">Programar encendido</string>
+	<string name="print_settings">Impresión</string>
+    <string name="print_settings_title">Servicio de impresión</string>
+    <string name="print_service_security_warning_title">¿Usar %1$s?</string>
+    <string name="print_service_security_warning_summary">Tu documento puede pasar por varios servidores hasta llegar a la impresora.</string>
+    <string name="print_no_services_installed">No hay servicios instalados</string>
+    <string name="print_no_printers_found">No hay impresoras</string>
+    <string name="print_menu_item_settings">Ajustes</string>
+    <string name="print_menu_item_add_printers">Añadir impresera</string>
+    <string name="print_feature_state_on">Encendido</string>
+    <string name="print_feature_state_off">Apagado</string>
+    <string name="print_menu_item_add_service">Añadir Servicio</string>
+    <string name="print_menu_item_add_printer">Añadir impresora</string>
+    <string name="print_menu_item_search">Buscar</string>
+    <string name="print_searching_for_printers">Buscando impresoras</string>
+    <string name="print_service_disabled">Servicio deshabilitado</string>
+    <string name="print_print_jobs">Trabajos</string>
+    <string name="print_print_job">Trabajo</string>
+    <string name="print_restart">Reiniciar</string>
+    <string name="print_cancel">Cancelar</string>
+    <string name="print_printing_state_title_template">Imprimiendo %1$s</string>
+    <string name="print_cancelling_state_title_template">Cancelando %1$s</string>
+    <string name="print_failed_state_title_template">Error %1$s</string>
+    <string name="print_blocked_state_title_template">Bloqueada %1$s</string>
+    <string name="print_search_box_shown_utterance">Búsqueda mostrada</string>
+    <string name="print_search_box_hidden_utterance">Búsqueda oculta</string>
+	<string name="process_stats_summary_title">Procesos</string>
+    <string name="process_stats_summary">Estadísticas de aplicaciones corriendo</string>
+    <string name="app_memory_use">Memoria usada</string>
+    <string name="process_stats_total_duration">%1$s sobre %2$s</string>
+    <string name="process_stats_type_background">En segundo plano</string>
+    <string name="process_stats_type_foreground">En primer plano</string>
+    <string name="process_stats_type_cached">Cacheado</string>
+    <string name="process_stats_memory_status">La memoria actual es %1$s</string>
+    <string name="process_stats_avg_ram_use">Uso de ram óptimo</string>
+    <string name="process_stats_max_ram_use">Uso de ram máximo</string>
+    <string name="process_stats_run_time">Tiempo de ejecucion</string>
+	<string name="verify_apps_over_usb_title">Comprobar apps por USB</string>
+    <string name="verify_apps_over_usb_summary">Comprueba las aplicaciones instaladas por ADB/ADT.</string>
+    <string name="wifi_display_certification">Certificación de pantalla inalámbrica</string>
+    <string name="wifi_display_certification_summary">Muestra opciones de certificación de pantalla inalámbrica</string>
+    <string name="force_rtl_layout_all_locales">Forzar direción RTL</string>
+    <string name="force_rtl_layout_all_locales_summary">Fuerza dirección diseño de la pantalla de RTL para todos los idiomas</string>
+    <string name="overlay_display_devices_title">Simular pantalla secundaria</string>
+	<string name="debug_hw_drawing_category">Renderizado de aceleración hardware</string>
+	<string name="show_hw_layers_updates">Mostrar actualización de capas</string>
+    <string name="show_hw_layers_updates_summary">Iluminar capas en verde cuando se actualicen</string>
+    <string name="debug_hw_overdraw">Depurar sobredibujos de GPU</string>
+	<string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
+	<string name="enable_opengl_traces_title">Habilitar seguimiento OpenGL</string>
+	<string name="select_runtime_title">Modo de ejecución</string>
+    <string name="select_runtime_dialog_title">Modo de ejecución</string>
+    <string name="accessibility_screen_magnification_enable">Gestos aumentados</string>
+    <string name="captioning_preview_title">Previo</string>
+    <string name="captioning_standard_options_title">Opciones</string>
+    <string name="captioning_locale">Idioma</string>
+    <string name="captioning_text_size">Tamaño de texto</string>
+    <string name="captioning_preset">Estilo</string>
+    <string name="captioning_custom_options_title">Opciones personalizdas</string>
+    <string name="captioning_background_color">Color de fondo</string>
+    <string name="captioning_background_opacity">Opacidad de fondo</string>
+    <string name="captioning_foreground_color">Color de texto</string>
+    <string name="captioning_edge_color">Edge color</string>
+    <string name="captioning_edge_type">Edge tipo</string>
+    <string name="captioning_typeface">Tipo de letra</string>
+	<string name="accessibility_captioning_title">Subtítulos</string>
+    <string name="captioning_preview_text">Los subtítulos se mostrarán así</string>
+    <string name="captioning_preview_characters">Aa</string>
+	<string name="accessibility_toggle_speak_password_preference_title">Hablar contraseñas</string>
+	<string name="accessibility_long_press_timeout_preference_title">Retraso de pulsación</string>
+	<string name="accessibility_power_button_ends_call_prerefence_title">Colgar llamada con botón de encendido</string>
+    <string name="accessibility_screen_magnification_title">Gestos de ampliación</string>
+    <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puedes acercar y alejar la imagen con solo tocar tres veces la pantalla.
+
+A continuación se indican las acciones que puedes hacer con la imagen acercada.
+"<ul><li>"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
+"<li>Modificar el nivel de zoom: une dos o más dedos o sepáralos.</li></li></ul>"
+
+También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla pulsada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
+
+Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación."</string>
+<string name="locale_default">Defecto</string>
+    <string name="color_none">Ninguno</string>
+    <string name="color_white">Blanco</string>
+    <string name="color_gray">Gris</string>
+    <string name="color_black">Negro</string>
+    <string name="color_red">Rojo</string>
+    <string name="color_green">Verde</string>
+    <string name="color_blue">Azul</string>
+    <string name="color_cyan">Cian</string>
+    <string name="color_yellow">Amarillo</string>
+    <string name="color_magenta">Magenta</string>
+	<string name="system_backup_section_title">Copia Seguridad</string>
+    <string name="local_backup_section_title">Copias locales</string>
+    <string name="local_backup_section_summary">Copia los ajustes, cuentas y aplicaciones</string>
+    <string name="preferred_app_settings">Ajustes app por defecto</string>
+    <string name="preferred_app_settings_default">Por defecto</string>
+    <string name="preferred_app_settings_reset">¿Restaurar apps por defecto?</string>
+    <string name="preferred_app_settings_reset_message">Todas las apps se restaurarána las preetablecidas por MIUI</string>
 </resources>

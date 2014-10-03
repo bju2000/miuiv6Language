@@ -233,19 +233,16 @@
     <item>Animación escala 10x</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
-    <item>Ninguna</item>
-    <item>720x480 mdpi</item>
-    <item>1280x720 tvdpi</item>
-    <item>1920x1080 xhdpi</item>
-    <item>1280x720 tvdpi y 1920x1080 xhdpi</item>
-  </string-array>
-  <string-array name="overlay_display_devices_values">
-    <item/>
-    <item>720x480/160</item>
-    <item>1280x720/213</item>
-    <item>1920x1080/320</item>
-    <item>1280x720/213;1920x1080/320</item>
-  </string-array>
+        <item>Ninguna</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (seguro)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (seguro)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (seguro)</item>
+        <item>1280x720 tvdpi y 1920x1080 xhdpi</item>
+    </string-array>
+
   <string-array name="enable_opengl_traces_entries">
     <item>Ninguno</item>
     <item>Logcat</item>
@@ -483,4 +480,32 @@
     <item>7 usuarios</item>
     <item>8 usuarios</item>
   </string-array>
+  <string-array name="select_runtime_summaries">
+        <item>Usar Dalvik</item>
+        <item>Usar ART</item>
+        <item>Usar ART debug</item>
+    </string-array>
+	<string-array name="enable_opengl_traces_entries">
+        <item>Ninguno</item>
+        <item>Logcat</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Llamar stack en glGetError</item>
+    </string-array>
+	<string-array name="track_frame_time_entries">
+        <item>Apagado</item>
+        <item>En pantalla como barras</item>
+        <item>En pantalla como líneas</item>
+        <item>En adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="show_non_rect_clip_entries">
+        <item>Apagado</item>
+        <item>Dibujar región de recorte no rectangular en azul</item>
+        <item>Resaltar comandos de dibujo probados en verde</item>
+    </string-array>
+	<string-array name="debug_hw_overdraw_entries">
+        <item>Apagado</item>
+        <item>Mostrar capas sobredibujadas</item>
+        <item>Mostrar áreas para deuteranomalía</item>
+        <item>Mostrar contador de sobredibujdo</item>
+    </string-array>
 </resources>

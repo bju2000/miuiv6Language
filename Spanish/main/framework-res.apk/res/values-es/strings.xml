@@ -1287,11 +1287,21 @@
   <string name="storage_phone">Almacenamiento interno</string>
   <string name="storage_external_usb">Almacenamiento USB externo</string>
   <string name="global_action_reboot">Reiniciar</string>
+  <string name="global_action_reboot_recovery">Recovery</string>
   <string name="reboot_confirm">El teléfono se reiniciará</string>
   <string name="reboot_confirm_question">¿Quieres reiniciar?</string>
   <string name="open_airplane_mode">Modo avión se habilitará</string>
   <string name="close_airplane_mode">Modo avión se deshabilitará</string>
   <string name="transport_string">Copia de seguridad de depuración de sólo caché privada</string>
   <string name="kg_emergency_call_label">Llamada de emergencia</string>
+  <string name="zzzz_agold_global_restart_confirm">Reiniciar eliminará los archivos temporales. ¿Quieres reiniciar ahora?</string>
+  <string name="zzzz_agold_lunar_date_formatter">yyyy MM dd </string>
+  <string name="zzzz_agold_xingqiyi">Lun</string>
+  <string name="zzzz_agold_xingqier">Mar</string>
+  <string name="zzzz_agold_xingqisan">Mie</string>
+  <string name="zzzz_agold_xingqisi">Jue</string>
+  <string name="zzzz_agold_xingqiwu">Vie</string>
+  <string name="zzzz_agold_xingqiliu">Sab</string>
+  <string name="zzzz_agold_xingqiri">Dom</string>  
   
 </resources>
