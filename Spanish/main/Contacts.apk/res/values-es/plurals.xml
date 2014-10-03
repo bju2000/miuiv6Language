@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<resources>
+  <plurals name="listTotalPhoneContacts">
+    <item quantity="other">%d contactos con números de teléfono</item>
+    <item quantity="one">1 contacto con número de teléfono</item>
+  </plurals>
+  <plurals name="listTotalAllContacts">
+    <item quantity="other">%d contactos</item>
+    <item quantity="one">1 contacto</item>
+  </plurals>
+  <plurals name="listFoundAllContacts">
+    <item quantity="other">%d contactos</item>
+    <item quantity="one">1 contacto</item>
+  </plurals>
+  <plurals name="searchFoundContacts">
+    <item quantity="other">%d contactos</item>
+    <item quantity="one">1 contacto</item>
+  </plurals>
+  <plurals name="merge_info">
+    <item quantity="other">agrupado desde %0$d contactos</item>
+    <item quantity="one">no agrupado</item>
+  </plurals>
+  <plurals name="num_groups_in_account">
+    <item quantity="other">%0$d grupos</item>
+    <item quantity="one">1 grupo</item>
+  </plurals>
+  <plurals name="num_contacts_in_group">
+    <item quantity="other">%1$d personas en %2$s</item>
+    <item quantity="one">%1$d persona en %2$s</item>
+  </plurals>
+  <plurals name="group_list_num_contacts_in_group">
+    <item quantity="other">%1$d personas</item>
+    <item quantity="one">%1$d persona</item>
+  </plurals>
+  <plurals name="group_list_num_numbers_in_group">
+    <item quantity="other">%1$d números</item>
+    <item quantity="one">%1$d número</item>
+  </plurals>
+  <plurals name="notification_voicemail_title">
+    <item quantity="other">%1$d Mensajes de Voz</item>
+    <item quantity="one">Buzón de voz</item>
+  </plurals>
+  <plurals name="number_of_items_selected">
+    <item quantity="other">%1$d elementos seleccionados</item>
+    <item quantity="one">%1$d elemento seleccionado</item>
+  </plurals>
+  <plurals name="group_add_success_toast">
+    <item quantity="other">Exitosamente añadidos %1$d contactos</item>
+    <item quantity="one">Exitosamente añadido %1$d contacto</item>
+  </plurals>
+  <plurals name="smart_group_member_count">
+    <item quantity="other">%d contactos</item>
+    <item quantity="one">1 contacto</item>
+  </plurals>
+</resources>

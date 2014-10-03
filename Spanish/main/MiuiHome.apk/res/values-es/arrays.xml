@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="transformation_entries">
+    <item>Clasico</item>
+    <item>Clasico (Sin rebote)</item>
+    <item>Desvanecer</item>
+    <item>Caer</item>
+    <item>Página</item>
+    <item>Cascada</item>
+    <item>Rotar</item>
+    <item>Cubo 3D</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_entries">
+    <item>Por tema</item>
+    <item>Centro</item>
+    <item>Izquierda</item>
+    <item>Derecha</item>
+  </string-array>
+  <string-array name="gadget_weather_theme_type_entries">
+    <item>Por defecto</item>
+    <item>Clásico</item>
+  </string-array>
+  <string-array name="gadget_weather_image">
+    <item>Soleado</item>
+    <item>Nublado</item>
+    <item>Cubierto</item>
+    <item>Niebla</item>
+    <item>Tormenta fuerte</item>
+    <item>Fuerte tormenta de lluvia</item>
+    <item>Temporal de lluvia</item>
+    <item>Tormentas</item>
+    <item>Lluvias</item>
+    <item>Lluvia fuerte</item>
+    <item>Lluvia moderada</item>
+    <item>Lluvia ligera</item>
+    <item>Aguanieve</item>
+    <item>Ventisca</item>
+    <item>Chubascos de nieve</item>
+    <item>Fuerte nieve</item>
+    <item>Nieve moderada</item>
+    <item>Ligera nieve</item>
+    <item>Fuerte tormenta de polvo</item>
+    <item>Tormenta de polvo</item>
+    <item>Polvo</item>
+    <item>Soplando arena</item>
+    <item>Granizo</item>
+    <item>Polvo flotante</item>
+    <item>Neblina</item>
+  </string-array>
+</resources>

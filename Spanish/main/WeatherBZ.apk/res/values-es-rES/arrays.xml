@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="donations_google_android_market_promt_array">
+        <item>1 Euro</item>
+        <item>2 Euros</item>
+        <item>3 Euros</item>
+        <item>5 Euros</item>
+        <item>8 Euros</item>
+        <item>13 Euros</item>
+    </string-array>
+    <string-array name="update_interval_names">
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>4 horas</item>
+        <item>6 horas</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Andorra</item>
+        <item>Emiratos Árabes Unidos</item>
+        <item>Afganistán</item>
+        <item>Antigua y Barbuda</item>
+        <item>Anguila</item>
+        <item>Albania</item>
+        <item>Armenia</item>
+        <item>Antillas Neerlandesas</item>
+        <item>Angola</item>
+        <item>Antártida</item>
+        <item>Argentina</item>
+        <item>Samoa Americana</item>
+        <item>Austria</item>
+        <item>Australia</item>
+        <item>Aruba</item>
+        <item>Islas de Áland</item>
+        <item>Azerbaiyán</item>
+        <item>Bosnia-Herzegovina</item>
+        <item>Barbados</item>
+        <item>Bangladés</item>
+        <item>Bélgica</item>
+        <item>Burkina Faso</item>
+        <item>Bulgaria</item>
+        <item>Baréin</item>
+        <item>Burundi</item>
+        <item>Benín</item>
+        <item>Bermudas</item>
+        <item>Brunéi</item>
+        <item>Bolivia</item>
+        <item>Brasil</item>
+        <item>Bahamas</item>
+        <item>Bután</item>
+        <item>Isla Bouvet</item>
+        <item>Botsaana</item>
+        <item>Bielorrusia</item>
+        <item>Belice</item>
+        <item>Canada</item>
+        <item>Islas Cocos</item>
+        <item>República Democrática del Congo</item>
+        <item>República Centroafricana</item>
+        <item>República del Congo</item>
+        <item>Suiza</item>
+        <item>Costa de Marfil</item>
+        <item>Islas Cook</item>
+        <item>Chile</item>
+        <item>Camerún</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Serbia y Montenegro</item>
+        <item>Cuba</item>
+        <item>Cabo Verde</item>
+        <item>Isla de Navidad</item>
+        <item>Chipre</item>
+        <item>República Checa</item>
+        <item>Alemania</item>
+        <item>Yibuti</item>
+        <item>Denamarca</item>
+        <item>Dominica</item>
+        <item>República Dominicana</item>
+        <item>Argelia</item>
+        <item>Ecuador</item>
+        <item>Estonia</item>
+        <item>Egipto</item>
+        <item>Sahara Occidental</item>
+        <item>Eritrea</item>
+        <item>España</item>
+        <item>Etiopia</item>
+        <item>Finlandia</item>
+        <item>Fiyi</item>
+        <item>Islas Malvinas</item>
+        <item>Estados Federados de Micronesia</item>
+        <item>Islas Feroe</item>
+        <item>Francia</item>
+        <item>France Metropolitana</item>
+        <item>Gabón</item>
+        <item>Reino Unido</item>
+        <item>Granada</item>
+        <item>Georgia</item>
+        <item>Guayana Francesa</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Groenlandia</item>
+        <item>Gambia</item>
+        <item>Guinea</item>
+        <item>Guadalupe</item>
+        <item>Guinea Ecuatorial</item>
+        <item>Grecia</item>
+        <item>Islas Georgias del Sur y Sandwich del Sur</item>
+        <item>Guatemala</item>
+        <item>Guam</item>
+        <item>Guinea-Bisáu</item>
+        <item>Guyana</item>
+        <item>Hong Kong</item>
+        <item>Islas Heard y McDonald</item>
+        <item>Honduras</item>
+        <item>Croacia</item>
+        <item>Haití</item>
+        <item>Hungría</item>
+        <item>Indonesia</item>
+        <item>Irlanda</item>
+        <item>Israel</item>
+        <item>India</item>
+        <item>Territorio Británico del Océano Índico</item>
+        <item>Irak</item>
+        <item>Irán</item>
+        <item>Islandia</item>
+        <item>Italia</item>
+        <item>Jamaica</item>
+        <item>Jordania</item>
+        <item>Japón</item>
+        <item>Kenia</item>
+        <item>Kirguistán</item>
+        <item>Camboya</item>
+        <item>Kiribati</item>
+        <item>Comoras</item>
+        <item>San Cristóbal y Nieves</item>
+        <item>Corea del Norte</item>
+        <item>Corea del Sur</item>
+        <item>Kuwait</item>
+        <item>Islas Caimán</item>
+        <item>Kazajistán</item>
+        <item>Laos</item>
+        <item>Líbano</item>
+        <item>Santa Lucía</item>
+        <item>Liechtenstein</item>
+        <item>Sri Lanka</item>
+        <item>Liberia</item>
+        <item>Lesotho</item>
+        <item>Lituania</item>
+        <item>Luxemburgo</item>
+        <item>Letonia</item>
+        <item>Libia</item>
+        <item>Marruecos</item>
+        <item>Monaco</item>
+        <item>Moldova</item>
+        <item>Madagascar</item>
+        <item>Islas Marshall</item>
+        <item>Macedonia</item>
+        <item>Malí</item>
+        <item>Myanmar</item>
+        <item>Mongolia</item>
+        <item>Macao</item>
+        <item>Islas Marianas del Norte</item>
+        <item>Martinica</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Malta</item>
+        <item>Mauricio</item>
+        <item>Maldivas</item>
+        <item>Malawi</item>
+        <item>México</item>
+        <item>Malasia</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Nueva Caledonia</item>
+        <item>Niger</item>
+        <item>Isla Norfolk</item>
+        <item>Nigeria</item>
+        <item>Nicaragua</item>
+        <item>Holanda</item>
+        <item>Noruega</item>
+        <item>Nepal</item>
+        <item>Nauru</item>
+        <item>Niue</item>
+        <item>Nueva Zelanda</item>
+        <item>Omán</item>
+        <item>Panamá</item>
+        <item>Perú</item>
+        <item>Polinesia Francesa</item>
+        <item>Papúa Nueva Guinea</item>
+        <item>Filipinas</item>
+        <item>Pakistán</item>
+        <item>Polonia</item>
+        <item>San Pedro y Miquelón</item>
+        <item>Pitcairn</item>
+        <item>Puerto Rico</item>
+        <item>Palestina</item>
+        <item>Portugal</item>
+        <item>Palau</item>
+        <item>Paraguay</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Rumanía</item>
+        <item>Rusia</item>
+        <item>Rwanda</item>
+        <item>Arabia Saudí</item>
+        <item>Islas Salomón</item>
+        <item>Seychelles</item>
+        <item>Sudán</item>
+        <item>Suecia</item>
+        <item>Singapur</item>
+        <item>Santa Elena</item>
+        <item>Eslovenia</item>
+        <item>Svalbard y Jan Mayen</item>
+        <item>Eslovaquia</item>
+        <item>Sierra Leona</item>
+        <item>San Marino</item>
+        <item>Senegal</item>
+        <item>Somalia</item>
+        <item>Suriname</item>
+        <item>Santo Tomé y Príncipe</item>
+        <item>(Antigua) URSS</item>
+        <item>El Salvador</item>
+        <item>Siria</item>
+        <item>Swazilandia</item>
+        <item>Islas Turcas y Caicos</item>
+        <item>Chad</item>
+        <item>Territorios Franceses Australes</item>
+        <item>Togo</item>
+        <item>Tailandia</item>
+        <item>Tayikistán</item>
+        <item>Tokelau</item>
+        <item>Timor-Leste</item>
+        <item>Turkmenistán</item>
+        <item>Túnez</item>
+        <item>Tonga</item>
+        <item>Timor Oriental</item>
+        <item>Turquía</item>
+        <item>Trinidad y Tobago</item>
+        <item>Tuvalu</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Ucrania</item>
+        <item>Uganda</item>
+        <item>Reino Unido</item>
+        <item>Estados Unidos (Islas Menores Alejadas)</item>
+        <item>Estados Unidos</item>
+        <item>Uruguay</item>
+        <item>Uzbekistán</item>
+        <item>Ciudad del Vaticano (Santa Sede)</item>
+        <item>San Vicente y las Granadinas</item>
+        <item>Venezuela</item>
+        <item>Islas Vírgenes (Británicas)</item>
+        <item>Islas Vírgenes (EE.UU.)</item>
+        <item>Viet Nam</item>
+        <item>Vanuatu</item>
+        <item>Wallis y Futuna</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>Mayotte</item>
+        <item>(Antigua) Yugoslavia</item>
+        <item>Sudáfrica</item>
+        <item>Zambia</item>
+        <item>(Antiguo) Zaire</item>
+        <item>Zimbabwe</item>
+        <item>San Pedro y Miquelón</item>
+    </string-array>
+    <string-array name="notif_temp_color_entries">
+        <item>Negro</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name="notif_type_entries">
+        <item>Temperatura</item>
+        <item>Iconos del clima</item>
+    </string-array>
+    <string-array name="widget42_show_entries">
+        <item>Actualizado</item>
+        <item>Siguiente alarma</item>
+        <item>Nivel de batería</item>
+        <item>Sensación real</item>
+        <item>Viento</item>
+        <item>Humedad</item>
+        <item>Temperaturas máxima y mínima</item>
+    </string-array>
+	<string-array name="widget43_show_entries">
+        <item>Actualizado</item>
+        <item>Siguiente alarma</item>
+        <item>Nivel de batería</item>
+        <item>Sensación real</item>
+        <item>Viento</item>
+        <item>Humedad</item>
+        <item>Temperaturas máxima y mínima</item>
+    </string-array>
+    <string-array name="main_show_entries">
+        <item>Sensación real</item>
+        <item>Viento</item>
+        <item>Humedad</item>
+        <item>Presión</item>
+        <item>Visibilidad</item>
+        <item>Salida y puesta del sol</item>
+        <item>Siguiente alarma</item>
+    </string-array>
+    <string-array name="widget41_show_entries">
+        <item>Panel de temperatura</item>
+        <item>Panel de datos extendidos</item>
+        <item>Panel horario</item>
+    </string-array>
+    <string-array name="widget41_data_entries">
+        <item>"Previsión de 3 días"</item>
+        <item>"Previsión diaria"</item>
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Mensual</item>
+        <item>Anual</item>
+    </string-array>
+</resources>

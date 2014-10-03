@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="plmn_prefer_network_mode_choices">
+    <item>GSM</item>
+    <item>WCDMA</item>
+    <item>Modo dual</item>
+  </string-array>
+  <string-array name="plmn_prefer_network_mode_td_choices">
+    <item>GSM</item>
+    <item>TD-SCDMA</item>
+    <item>Modo dual</item>
+  </string-array>
+  <string-array name="gsm_umts_network_preferences_choices">
+    <item>GSM/WCDMA (auto)</item>
+    <item>Sólo WCDMA</item>
+    <item>Sólo GSM</item>
+  </string-array>
+  <string-array name="gsm_umts_network_preferences_choices_cmcc">
+    <item>GSM/TD-SCDMA (auto)</item>
+    <item>Sólo TD-SCDMA</item>
+    <item>Sólo GSM</item>
+  </string-array>
+  <string-array name="umts_network_preferences_choices">
+    <item>GSM/WCDMA (auto)</item>
+    <item>Sólo WCDMA</item>
+  </string-array>
+  <string-array name="call_reject_mode_entries">
+    <item>Apagar</item>
+    <item>Todos los números</item>
+    <item>Lista de auto rechazados</item>
+  </string-array>
+  <string-array name="call_reject_dialog_array">
+    <item>Contactos</item>
+    <item>Registro de llamadas</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item>LTE / CDMA</item>
+    <item>Sólo EvDo</item>
+    <item>CDMA w/o EvDo</item>
+    <item>Auto CDMA / EvDo</item>
+    <item>Auto GSM / WCDMA</item>
+    <item>Sólo WCDMA</item>
+    <item>Sólo GSM</item>
+    <item>Preferencia GSM / WCDMA</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_lte">
+    <item>LTE / CDMA</item>
+    <item>CDMA</item>
+  </string-array>
+  <string-array name="list_language_entries">
+    <item>Ingles</item>
+    <item>Frances</item>
+    <item>Español</item>
+    <item>Japones</item>
+    <item>Koreano</item>
+    <item>Chino</item>
+    <item>Hebreo</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>Sólo al iniciar</item>
+    <item>Automatico</item>
+  </string-array>
+  <string-array name="cdma_subscription_choices">
+    <item>UIM</item>
+    <item>NV</item>
+  </string-array>
+  <string-array name="dtmf_tone_entries">
+    <item>Normal</item>
+    <item>Largo</item>
+  </string-array>
+  <string-array name="voicemail_notification_vibrate_when_entries">
+    <item>Siempre</item>
+    <item>Sólo cuando silencio</item>
+    <item>Nunca</item>
+  </string-array>
+</resources>

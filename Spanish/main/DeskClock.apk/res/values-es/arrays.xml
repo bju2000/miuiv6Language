@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="duration_entries">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>:</item>
+    <item>.</item>
+  </string-array>
+  <string-array name="alarm_set">
+    <item>La alarma sonará en menos de un minuto.</item>
+    <item>La alarma sonará en %1$s.</item>
+    <item>La alarma sonará en %2$s.</item>
+    <item>La alarma sonará en %1$s y %2$s.</item>
+    <item>La alarma sonará en %3$s.</item>
+    <item>La alarma sonará en %1$s y %3$s.</item>
+    <item>La alarma sonará en %2$s y %3$s.</item>
+    <item>La alarma sonará en %1$s, %2$s y %3$s.</item>
+  </string-array>
+  <string-array name="snooze_duration_entries">
+    <item>1 minuto</item>
+    <item>5 minutos</item>
+    <item>10 minutos</item>
+    <item>15 minutos</item>
+    <item>20 minutos</item>
+    <item>25 minutos</item>
+    <item>30 minutos</item>
+  </string-array>
+  <string-array name="auto_silence_entries">
+    <item>Apagado</item>
+    <item>1 minuto</item>
+    <item>5 minutos</item>
+    <item>10 minutos</item>
+    <item>15 minutos</item>
+    <item>20 minutos</item>
+    <item>25 minutos</item>
+    <item>30 minutos</item>
+  </string-array>
+  <string-array name="volume_button_setting_entries">
+    <item>Ninguna</item>
+    <item>Posponer</item>
+    <item>Rechazar</item>
+  </string-array>
+   <string-array name="alarm_in_furture">
+    <item>Alarma sonará en menos de un minuto</item>
+    <item>Alarma sonará en %1$s</item>
+    <item>Alarma sonará en %2$s</item>
+    <item>Alarma sonará en %1$s %2$s</item>
+    <item>Alarma sonará en %3$s</item>
+    <item>Alarma sonará en %1$s %3$s</item>
+    <item>Alarma sonará en %2$s %3$s</item>
+    <item>Alarma sonará en %1$s %2$s %3$s</item>
+  </string-array>
+  <string-array name="days">
+    <item>Ayer</item>
+    <item>Hoy</item>
+    <item>Mañana</item>
+  </string-array>
+  <string-array name="alarm_repeat_type">
+    <item>Una vez</item>
+    <item>Diario</item>
+    <item>Dias de trabajo</item>
+    <item>De Lun a Vie</item>
+    <item>Personalizado</item>
+  </string-array>
+</resources>

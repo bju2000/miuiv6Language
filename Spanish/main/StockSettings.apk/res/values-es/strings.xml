@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="stock_settings">Ajustes por defecto</string>
+    <string name="system">Sistema</string>
+    <string name="engineermode_settings">Modo ingeniero</string>
+    <string name="schedulepoweronoff_settings">Programar encendido/apagado</string>
+    <string name="sound">Sonido</string>
+    <string name="camera_sound_switch">Sonido de cámara</string>
+    <string name="camera_sound">Sonido de cámara</string>
+    <string name="record_sound">Sonido de videocámara</string>
+    <string name="focus_sound">Sonido de enfoque</string>
+    <string name="flash_recovery">Instalar Recovery</string>
+    <string name="toolbox">Caja de herramientas</string>
+    <string name="recovery_instruction">Renombra la imagen del recovery a recovery.img y ponlo en la raiz de la tarjeta SD，después pulsa en Instalar Recovery</string>
+    <string name="device">Modelo de teléfono</string>
+    <string name="standard_version_instruction">Configuración actual de memoria interna Jiayu G3QC/G3QCT/G4B/G4T, si tu terminal no es ninguno de la lista elige el modelo correspondiente, tras seleccionarlo el terminal se reiniciará</string>
+    <string name="stronger_version_instruction">Configuración actual de memoria interna Jiayu G4A, si tu terminal no es ninguno de la lista elige el modelo correspondiente, tras seleccionarlo el terminal se reiniciará</string>	
+</resources>

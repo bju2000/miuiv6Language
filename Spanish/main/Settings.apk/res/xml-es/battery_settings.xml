@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/battery_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/power_usage_history" android:key="power_usage">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.fuelgauge.PowerUsageSummary" />
+    </PreferenceScreen>
+    <ListPreference android:persistent="false" android:entries="@array/battery_indicator_style_entries" android:title="@string/battery_indicator_style" android:key="battery_indicator_style" android:entryValues="@array/battery_indicator_style_values" />
+    <ListPreference android:persistent="false" android:entries="@array/power_mode_entries" android:title="@string/power_mode" android:key="power_mode" />
+    <PreferenceScreen android:title="@string/battery_settings_engineer">
+        <intent android:targetPackage="com.mediatek.engineermode" android:action="android.intent.action.MAIN" android:targetClass="com.mediatek.engineermode.EngineerMode" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/battery_settings_factory">
+        <intent android:targetPackage="com.mediatek.factorymode" android:action="android.intent.action.MAIN" android:targetClass="com.mediatek.factorymode.FactoryMode" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/battery_settings_poweron_alarm">
+        <intent android:targetPackage="com.mediatek.schpwronoff" android:action="android.intent.action.MAIN" android:targetClass="com.mediatek.schpwronoff.AlarmClock" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/battery_settings_novotools">
+        <intent android:targetPackage="com.genokolar.Novotools" android:action="android.intent.action.MAIN" android:targetClass="com.genokolar.Novotools.Extra" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/battery_settings_freezer">
+        <intent android:targetPackage="com.kqstone.appdisabler" android:action="android.intent.action.MAIN" android:targetClass="com.kqstone.appdisabler.MainActivity" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/battery_settings_novotools_lite">
+        <intent android:targetPackage="com.genokolar.Novotools" android:action="android.intent.action.MAIN" android:targetClass="com.genokolar.Novotools.Lite" />
+    </PreferenceScreen>
+</PreferenceScreen>

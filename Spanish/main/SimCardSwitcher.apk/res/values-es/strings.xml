@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<resources>
+  <string name="hello">Hello World, SimCardSwitcherActivity!</string>
+  <string name="app_name">Gestión SIM</string>
+  <string name="sim_info_title">Información SIM</string>
+  <string name="no_sim_title">Sin SIM</string>
+  <string name="sim1_title">SIM 1</string>
+  <string name="sim2_title">SIM 2</string>
+  <string name="default_sim_settings">Ajustes por defecto</string>
+  <string name="voice_call_sim_title">Llamadas de voz</string>
+  <string name="sms_mms_sim_title">Sms y MMS</string>
+  <string name="data_connection_sim_title">Conexión de datos</string>
+  <string name="no_simcard">SIM no disponible</string>
+  <string name="sim_turnoff">Ninguna</string>
+  <string name="no_sim_summary">SIM no disponible</string>
+  <string name="proximity_calibrate_guide">Please</string>
+  <string name="button_calibrate">Calibrar</string>
+  <string name="proximity_calibrate">Calibrar proximidad</string>
+  <string name="calibrate_success">Calibración completada</string>
+  <string name="calibrate_fail">Error de calibración.</string>
+  <string name="system_error">Error de sistema.</string>
+  <string name="error_guide">"The application is not supported by this version of system.
+Please contact kqstone(kqstone@163.com)"</string>
+  <string name="error_title">Error</string>
+  <string name="menu_about">Sobre</string>
+  <string name="about_content">"This application is builded by kqstone in 592zn group for calibrating Proximity and setting SimCard. The copyright is owned by individual.
+Please contact kqstone(kqstone@163.com) for more information."</string>
+</resources>

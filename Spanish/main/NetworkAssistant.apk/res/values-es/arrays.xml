@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="date_of_traffic">
+    <item>Tráfico de ayer</item>
+    <item>Tráfico de hoy</item>
+    <item>Tráfico del mes</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>Ayer 2G/3G</item>
+    <item>Hoy 2G/3G</item>
+    <item>Este mes 2G/3G</item>
+    <item>Ayer WiFi</item>
+    <item>Hoy WiFi</item>
+    <item>Este mes WiFi</item>
+  </string-array>
+  <string-array name="date_of_app">
+    <item>Ayer 2G/3G</item>
+    <item>Hoy 2G/3G</item>
+    <item>Este mes 2G/3G</item>
+  </string-array>
+  <string-array name="traffic_uints">
+    <item> B</item>
+    <item>KB</item>
+    <item>MB</item>
+    <item>GB</item>
+  </string-array>
+  <string-array name="network_speed_update_internals">
+    <item>3s</item>
+    <item>4s</item>
+    <item>5s</item>
+    <item>6s</item>
+    <item>7s</item>
+    <item>8s</item>
+    <item>9s</item>
+  </string-array>
+</resources>

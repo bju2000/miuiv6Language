@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="pref_content_plugins_choices">
+    <item>Siempre activado</item>
+    <item>En demanda</item>
+    <item>Apagado</item>
+  </string-array>
+  <string-array name="pref_homepage_choices">
+    <item>Página actual</item>
+    <item>La mayoría de los sitios visitados</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="pref_text_size_choices">
+    <item>Diminuto</item>
+    <item>Pequeño</item>
+    <item>Normal</item>
+    <item>Grande</item>
+    <item>Enorme</item>
+  </string-array>
+  <string-array name="pref_default_zoom_choices">
+    <item>Lejos</item>
+    <item>Medio</item>
+    <item>Cerrado</item>
+  </string-array>
+  <string-array name="pref_development_ua_choices">
+    <item>Android</item>
+    <item>Escritorio</item>
+    <item>iPhone</item>
+    <item>iPad</item>
+    <item>Froyo-N1</item>
+    <item>Honeycomb-Xoom</item>
+  </string-array>
+  <string-array name="pref_default_text_encoding_choices">
+    <item>Latin-1 (ISO-8859-1)</item>
+    <item>Unicode (UTF-8)</item>
+    <item>Chino (GBK)</item>
+    <item>Chino (Big5)</item>
+    <item>Japones (ISO-2022-JP)</item>
+    <item>Japones (SHIFT_JIS)</item>
+    <item>Japones (EUC-JP)</item>
+    <item>Koreano (EUC-KR)</item>
+  </string-array>
+  <string-array name="pref_data_preload_choices">
+    <item>Nunca</item>
+    <item>Sólo WiFi</item>
+    <item>Siempre</item>
+  </string-array>
+  <string-array name="pref_link_prefetch_choices">
+    <item>Nunca</item>
+    <item>Sólo con WiFi</item>
+    <item>Siempre</item>
+  </string-array>
+  <string-array name="pref_ua_choices">
+    <item>Android</item>
+    <item>Escritorio</item>
+    <item>iPhone</item>
+    <item>iPad</item>
+    <item>Froyo-N1</item>
+    <item>Honeycomb-Xoom</item>
+  </string-array>
+  <string-array name="pref_volume_key_choices">
+    <item>Página arriba/abajo</item>
+    <item>Cambiar pestaña</item>
+  </string-array>
+  <string-array name="pref_fling_on_border_choices">
+    <item>Página adelante/atrás</item>
+    <item>Cambiar pestaña</item>
+  </string-array>
+</resources>

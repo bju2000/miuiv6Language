@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<resources>
+  <string name="btn_start">Start</string>
+  <string name="btn_stop">Stop</string>
+  <string name="app_name">ModemLog</string>
+  <string name="mode_USB">USB Mode</string>
+  <string name="mode_SD">SD Mode</string>
+  <string name="chk_autostart">Start automatically when reboot</string>
+  <string name="ChooseModeTitle">Choose Mode</string>
+  <string name="ChooseModeMessage">Choose the mode for auto starting</string>
+  <string name="txt_current_mode_UNKNOWN">MDLogger is stopped.If you want to use Modem Log, please reboot.</string>
+  <string name="txt_current_mode_IDLE">MDLogger is idle currently.</string>
+  <string name="txt_current_mode_SD">MDLogger is in SD logging mode currently.</string>
+  <string name="txt_current_mode_USB">MDLogger is in USB logging mode currently.</string>
+  <string name="txt_paused">(paused)</string>
+  <string name="btn_test_polling_mode">Test polling mode</string>
+  <string name="tst_sd_unavailable">SD card is not available.</string>
+  <string name="StopDialogTitle">Stopping log</string>
+  <string name="StopDialogContent">Please wait for a moment...</string>
+  <string name="SDCloseToFull">SD Card is close to full, please change.</string>
+  <string name="SDNotAvailable">SD Card is not available.</string>
+  <string name="mdlog_service_start">Modem Log is on the way.</string>
+  <string name="mdlog_service_stopped">Modem Log is stopped.</string>
+  <string name="mdlog_service_nosd">Warning: Please check SD card status.</string>
+  <string name="mdlog_service_label">Modem log</string>
+  <string name="version">v1.1125.1</string>
+  <string name="memorydump_done">"Finished dumping memory!
+Click OK to reset modem.
+The dump file is:"</string>
+  <string name="btn_force_assert">Force Assert</string>
+  <string name="txt_current_mode_Polling">MDLogger is dumping memory!</string>
+  <string name="txt_current_mode_WaitingSD">Waiting SD Card ready...</string>
+  <string name="sdcard_full">SD Card is close to full.</string>
+  <string name="warning">Modem Log Warning</string>
+  <string name="btn_clearlogs">Clear Old Logs</string>
+  <string name="title_confirm">Confirm</string>
+  <string name="message_deletelog">Confirm to delete all the logs?</string>
+  <string name="clear_dlg_title">Clear</string>
+  <string name="clear_dlg_content">Clearing old logs...</string>
+  <string name="mdlog_enable_memorydump">Enable Memory Dump</string>
+  <string name="dlg_tip_force_assert">Confirm to force modem assert?</string>
+  <string name="dlg_title_force_assert">Force Assert</string>
+  <string name="message_nofilter">Found no cather_filter.bin,please put it into /sdcard/mtklog/config</string>
+  <string name="message_nosdcard">SD card is not ready</string>
+  <string name="set_max_log_size">Total Modem log size(M)</string>
+  <string name="set_log_size_summary">Click to set</string>
+  <string name="log_default_size">1000</string>
+  <string name="invalid_log_size">Valid log size:</string>
+</resources>

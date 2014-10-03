@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<resources>
+  <string name="app_label">Gestor de descargas</string>
+  <string name="permlab_downloadManager">Acceso a gestor de descargas.</string>
+  <string name="permdesc_downloadManager">Permite a la aplicación acceder al gestor de descarga y lo utilizan para descargar archivos. Aplicaciones maliciosas pueden utilizarlo para interrumpir las descargas y el acceso a la información privada.</string>
+  <string name="permlab_downloadManagerAdvanced">Funciones avanzadas de gestor de descargas.</string>
+  <string name="permdesc_downloadManagerAdvanced">Permite a la aplicación acceder a las funciones avanzadas del gestor de descarga. Aplicaciones maliciosas pueden utilizarlo para interrumpir las descargas y el acceso a la información privada.</string>
+  <string name="permlab_downloadCompletedIntent">Enviar notificaciones de descarga.</string>
+  <string name="permdesc_downloadCompletedIntent">Permite a la aplicación enviar notificaciones acerca de las descargas completadas. Aplicaciones maliciosas pueden utilizarlo para confundir a otras aplicaciones que descarguen los archivos.</string>
+  <string name="permlab_seeAllExternal">Ver todas las descargas de almacenamiento USB</string>
+  <string name="permdesc_seeAllExternal">Permite a la aplicación ver todas las descargas en la tarjeta SD, independientemente de la aplicación que los ha descargado.</string>
+  <string name="permlab_downloadCacheNonPurgeable">Reservar espacio en la caché de descarga</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Permite a la aplicación descargar archivos en el caché de descarga, que no pueden ser borrados automáticamente cuando el gestor de descargas necesita más espacio.</string>
+  <string name="permlab_downloadWithoutNotification">descargar archivos sin previo aviso</string>
+  <string name="permdesc_downloadWithoutNotification">Permite a la aplicación descargar archivos a través del gestor de descargas sin ningún tipo de notificación que se muestra al usuario.</string>
+  <string name="permlab_accessAllDownloads">Acceso a todas las descargas del sistema</string>
+  <string name="permdesc_accessAllDownloads">Permite a la aplicación ver y modificar todas las descargas iniciadas por cualquier aplicación en el sistema.</string>
+  <string name="download_unknown_title">&lt;Sin título&gt;</string>
+  <string name="notification_filename_separator">, </string>
+  <string name="notification_filename_extras"> y %d más</string>
+  <string name="notification_download_complete">Descarga completa.</string>
+  <string name="notification_download_failed">Descargar sin éxito.</string>
+  <string name="notification_need_wifi_for_size">El tamaño de descarga requiere una conexión WiFi.</string>
+  <string name="notification_paused_in_background">Hizo una pausa en el fondo.</string>
+  <string name="wifi_required_title">Descarga demasiado grande para el operador de red</string>
+  <string name="wifi_required_body" formatted="false">Debe utilizar WiFi para completar esta %s descarga. \nToque %s para iniciar la descarga la próxima vez tienes que estar conectado a una red WiFi.</string>
+  <string name="wifi_recommended_title">Recordar tráfico</string>
+  <string name="wifi_recommended_body" formatted="false">A punto de descargar a través del operador de red： %s（%s） Descarga el archivo puede provocar costos más altos de tráfico.</string>
+  <string name="button_queue_for_wifi">Aceptar</string>
+  <string name="button_cancel_download">Cancelar</string>
+  <string name="button_start_now">Comience ahora</string>
+  <string name="download_percent">%d%%</string>
+  <string name="dialog_insufficient_space_on_external">No hay suficiente espacio en el almacenamiento externo</string>
+  <string name="dialog_insufficient_space_on_cache">No hay suficiente espacio en el almacenamiento interno de descarga</string>
+  <string name="auto_restart_under_wifi">WiFi forma automática para descargar este archivo</string>
+</resources>

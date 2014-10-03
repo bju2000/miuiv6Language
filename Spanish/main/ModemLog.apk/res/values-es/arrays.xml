@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="log_size_values">
+    <item>Recycle log size: 600M</item>
+    <item>Recycle log size: 1G</item>
+    <item>Stop until sdcard full</item>
+  </string-array>
+</resources>

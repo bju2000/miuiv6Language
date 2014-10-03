@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="simcard_string">
+    <item>SIM1</item>
+    <item>SIM2</item>
+    <item>Apagar</item>
+    <item>Personalizar</item>
+  </string-array>
+</resources>

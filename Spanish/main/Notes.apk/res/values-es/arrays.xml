@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="contact_entries">
+    <item>Nombre</item>
+    <item>Alias</item>
+    <item>Telefono</item>
+    <item>E-mail</item>
+    <item>Organizacion</item>
+    <item>IM</item>
+    <item>Telefono SIP</item>
+    <item>Cumpleanos</item>
+    <item>Sitio Web</item>
+    <item>Direccion</item>
+    <item>Nota</item>
+  </string-array>
+  <string-array name="font_size_names">
+    <item>Pequeño</item>
+    <item>Medio</item>
+    <item>Grande</item>
+    <item>Super</item>
+  </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="powermanage_entries">
+        <item>Sólo llamadas</item>
+        <item>Ahorro batería</item>
+        <item>Normal</item>
+        <item>Alto rendimiento</item>
+    </string-array>
+    <string-array name="powermanage_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="lowmem_entries">
+        <item>Defecto</item>
+        <item>Agresivo</item>
+        <item>Balanceado</item>
+        <item>MultiTarea</item>
+        <item>Juegos</item>
+    </string-array>
+    <string-array name="lowmem_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

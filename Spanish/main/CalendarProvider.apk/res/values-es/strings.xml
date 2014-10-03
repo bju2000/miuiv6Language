@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<resources>
+  <string name="calendar_storage">Almacenamiento del calendario</string>
+  <string name="upgrade_msg">Actualización de base de datos de calendario.</string>
+  <string name="calendar_default_name">Predeterminado</string>
+  <string name="calendar_info">Información calendario</string>
+  <string name="calendar_info_error">Error</string>
+  <string name="calendar_info_no_calendars">No hay calendarios</string>
+  <string name="calendar_info_events">Eventos: %1$d</string>
+  <string name="calendar_info_events_dirty">Eventos: %1$d, sin guardar: %2$d</string>
+  <string name="provider_label">Calendario</string>
+  <string name="debug_tool_delete_button">Eliminar ahora</string>
+  <string name="debug_tool_start_button">Comenzar</string>
+  <string name="debug_tool_message">Vas a 1) hacer una copia de su base de datos de calendario para la tarjeta SD/USB de almacenamiento que puede ser leído por cualquier aplicación y 2) por correo electrónico. Recuerde que debe eliminar tan pronto como se han copiado con éxito apagar el dispositivo o el correo electrónico recibido.</string>
+  <string name="debug_tool_email_sender_picker">Seleccione un programa para enviar el archivo</string>
+  <string name="debug_tool_email_subject">Calendario Db adjunto</string>
+  <string name="debug_tool_email_body">Adjunto mi base de datos de calendario con todas mis citas y la información personal. Por favor, manejar con cuidado.</string>
+</resources>
