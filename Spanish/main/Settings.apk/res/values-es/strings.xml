@@ -1222,14 +1222,6 @@
   <string name="accessibility_services_title">Servicios</string>
   <string name="accessibility_system_title">Sistema</string>
   <string name="accessibility_screen_magnification_title">Gestos ampliados</string>
-  <string name="accessibility_screen_magnification_summary">\"Cuando esta característica está habilitada, puedes aumentar o reducir el zoom pulsando tres veces la pantalla.
-	Aumentado el zoom puedes:
-	\"<li> <ul>\"Mover: Arrastra dos o más dedos sobre la pantalla.
-	\"<li>Ajustar zoom: Pellizca con dos o más dedos acercando uno de otro o alejando.</li> </ul> </li>\"
-
-	También puedes ampliar temporalmente lo que está bajo tus dedos pulsando tres veces y manteniendo. En este estado de aumento, puedes arrastrar tu dedo para visualizar distintas partes de la pantalla. Suelta tu dedo para volver al estado anterior.
-
-	Nota: La triple pulsación funciona en cualquier sitio excepto en el teclado y la barra de navegación.\"</string>
   <string name="accessibility_global_gesture_preference_title">Acceso directo a accesibilidad</string>
   <string name="accessibility_global_gesture_preference_summary_on">Activado</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
@@ -2920,7 +2912,6 @@
 	<string name="battery_settings_novotools">Ajustes Extra</string>
 	<string name="battery_settings_freezer">Congelar Apps</string>
 	<string name="battery_settings_novotools_lite">Modo Memoria</string>
-	<string name="schedule_power_on_off_settings_title">Programar encendido</string>
 	<string name="print_settings">Impresión</string>
     <string name="print_settings_title">Servicio de impresión</string>
     <string name="print_service_security_warning_title">¿Usar %1$s?</string>
@@ -2957,19 +2948,13 @@
     <string name="process_stats_avg_ram_use">Uso de ram óptimo</string>
     <string name="process_stats_max_ram_use">Uso de ram máximo</string>
     <string name="process_stats_run_time">Tiempo de ejecucion</string>
-	<string name="verify_apps_over_usb_title">Comprobar apps por USB</string>
-    <string name="verify_apps_over_usb_summary">Comprueba las aplicaciones instaladas por ADB/ADT.</string>
     <string name="wifi_display_certification">Certificación de pantalla inalámbrica</string>
     <string name="wifi_display_certification_summary">Muestra opciones de certificación de pantalla inalámbrica</string>
     <string name="force_rtl_layout_all_locales">Forzar direción RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Fuerza dirección diseño de la pantalla de RTL para todos los idiomas</string>
-    <string name="overlay_display_devices_title">Simular pantalla secundaria</string>
 	<string name="debug_hw_drawing_category">Renderizado de aceleración hardware</string>
-	<string name="show_hw_layers_updates">Mostrar actualización de capas</string>
-    <string name="show_hw_layers_updates_summary">Iluminar capas en verde cuando se actualicen</string>
     <string name="debug_hw_overdraw">Depurar sobredibujos de GPU</string>
 	<string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
-	<string name="enable_opengl_traces_title">Habilitar seguimiento OpenGL</string>
 	<string name="select_runtime_title">Modo de ejecución</string>
     <string name="select_runtime_dialog_title">Modo de ejecución</string>
     <string name="accessibility_screen_magnification_enable">Gestos aumentados</string>
@@ -2988,11 +2973,7 @@
 	<string name="accessibility_captioning_title">Subtítulos</string>
     <string name="captioning_preview_text">Los subtítulos se mostrarán así</string>
     <string name="captioning_preview_characters">Aa</string>
-	<string name="accessibility_toggle_speak_password_preference_title">Hablar contraseñas</string>
-	<string name="accessibility_long_press_timeout_preference_title">Retraso de pulsación</string>
-	<string name="accessibility_power_button_ends_call_prerefence_title">Colgar llamada con botón de encendido</string>
-    <string name="accessibility_screen_magnification_title">Gestos de ampliación</string>
-    <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puedes acercar y alejar la imagen con solo tocar tres veces la pantalla.
+			    <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puedes acercar y alejar la imagen con solo tocar tres veces la pantalla.
 
 A continuación se indican las acciones que puedes hacer con la imagen acercada.
 "<ul><li>"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
@@ -3023,8 +3004,6 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="notification_breathing_light_color_title">Color de notificaciones</string>
     <string name="mms_breathing_light_color_title">Color de mensajes</string>
     <string name="breathing_light_color_menu_title">Color de LED</string>
-    <string name="breathing_light_color_summary">Colode LED cuando se reciben notificaciones</string>
-    <string name="breathing_light_freq_title">Frecuencia LED</string>
     <string name="incoming_call_breathing_light_freq_title">Frecuencia LED llamadas</string>
     <string name="notification_breathing_light_freq_title">Frecuencia LED notificaciones</string>
     <string name="mms_breathing_light_freq_title">Frecuencia LED mensajes</string>
@@ -3032,9 +3011,6 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="priority_storage_summary">Elige la localizacion por defecto para los datos de usuario</string>
     <string name="priority_storage_settings_summary">"Si no hay tarjeta SD, los datos se guardarán en la memoria interna"</string>
 <string name="sync_wifi_only">Sólo WiFi</string>
-<string name="location_access_title">Acceder a mi localización</string>
-    <string name="location_access_summary">Permitir a las aplicaciones usar la información de localización</string>
-	<string name="location_title">Mi localización</string>
     <string name="location_mode_title">Modo</string>
     <string name="location_mode_high_accuracy_title">Alta precisión</string>
     <string name="location_mode_battery_saving_title">Ahorro energía</string>
@@ -3051,18 +3027,8 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="location_mode_sensors_only_description">Usar sólo GPS para determinar la posición</string>
     <string name="location_loading_injected_setting">Recibiendo</string>
     <string name="location_category_enhanced_location">Posición fijada</string>
-    <string name="location_network_based">WiFi y datos móviles</string>
-    <string name="location_neighborhood_level">Permitir a las aplicaciones usar los datos de WiFi y datos móviles para estimar tu posición</string>
-    <string name="location_neighborhood_level_wifi">Posición determinada por WiFi</string>
-    <string name="location_gps">GPS satelites</string>
-    <string name="location_street_level">Permitir a las apps usar el GPS para localizar</string>
-    <string name="verify_applications">Verificar apps</string>
-    <string name="verify_applications_summary">No permitir o avisar antes de instalar aplicaciones que puedan ser un riesgo</string>
     <string name="credential_storage_type">Tipo de almacenamiento</string>
 	<string name="credential_storage_type_software">Sólo Software</string>
-    <string name="noise_suppression">Supresión de ruido ambiente</string>
-    <string name="phone_call_noise_suppression">Suprimir ruido durante las llamadas</string>
-	<string name="touch_title">Táctil</string>
 	<string name="miui_screensaver_state_on">Encendido</string>
     <string name="miui_screensaver_state_off">Apagado</string>
     <string name="miui_screensaver_title">Salvapantallas</string>
@@ -3070,10 +3036,5 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
 	<string name="miui_screensaver_usage">Las imagenes se mostrarán 5 segundos</string>
     <string name="title_font">Fuente</string>
     <string name="title_font_current">Actual</string>
-	<string name="line_breaking_title">Optimizar texto</string>
-    <string name="line_breaking_summary">Optimizar saltos de línea</string>
-	<string name="skip_step">Saltar paso</string>
-	<string name="use_network_warning">Necesitas una conexion a internet para sincronizar con Mi Cuenta</string>
-	<string name="power_mode_wifi">WiFi</string>
-	<string name="nearby_wifi">Redes disponibles</string>
+	<string name="use_network_warning">Necesitas una conexión a internet para sincronizar con Mi Cuenta</string>
 	</resources>

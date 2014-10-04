@@ -242,7 +242,6 @@
         <item>1920x1080 xhdpi (seguro)</item>
         <item>1280x720 tvdpi y 1920x1080 xhdpi</item>
     </string-array>
-
   <string-array name="enable_opengl_traces_entries">
     <item>Ninguno</item>
     <item>Logcat</item>
@@ -484,12 +483,6 @@
         <item>Usar Dalvik</item>
         <item>Usar ART</item>
         <item>Usar ART debug</item>
-    </string-array>
-	<string-array name="enable_opengl_traces_entries">
-        <item>Ninguno</item>
-        <item>Logcat</item>
-        <item>Systrace (Gráficos)</item>
-        <item>Llamar stack en glGetError</item>
     </string-array>
 	<string-array name="track_frame_time_entries">
         <item>Apagado</item>
