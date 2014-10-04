@@ -169,11 +169,11 @@
     <string name="free_time_traffic_hint">"Ingrese límite de datos de menor actividad"</string>
     <string name="traffic_protection_label">"Advertencia de uso de datos"</string>
     <string name="traffic_protection_summary">"Establecer alertas para cuando el uso de datos llega a un cierto nivel"</string>
-    <string name="traffic_protection_unknown">"&lt;U&gt; Configurar más tarde &lt;/ u&gt;"</string>
+    <string name="traffic_protection_unknown">"Configurar más tarde"</string>
     <string name="traffic_protection_text_hint">"Establecer el límite de uso de datos para %s"</string>
     <string name="traffic_protection_next">"Siguiente"</string>
-    <string name="traffic_protection_data_usage_summary">"Establecer alertas de uso de los datos para evitar exceder los límites de datos mensuales de su plan de soporte."</string>
-    <string name="traffic_protection_use_data">"Activar Data"</string>
+    <string name="traffic_protection_data_usage_summary">"Establecer alertas de uso de los datos para evitar exceder los límites de datos mensuales de su plan de datos."</string>
+    <string name="traffic_protection_use_data">"Activar Datos"</string>
     <string name="traffic_correction_start_correction">"Hablando con los servidores del transportista ..."</string>
     <string name="traffic_correction_start_correction_failed">"La petición ha fallado, compruebe los ajustes del operador"</string>
     <string name="traffic_correction_success">"El uso de datos actualizada"</string>
