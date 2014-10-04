@@ -1,13 +1,16 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Sincronización Xiaomi</string>
-  <string name="sync_item_sms_title">Sync SMS</string>
-  <string name="sync_item_sms_summary">Turn on after text messages have been sychronized.</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Synchronize MMS: WiFi only</string>
-  <string name="sub_sync_item_sms_summary">Recommend to enable, otherwise it will increase data charges.</string>
-  <string name="pref_title_sync_contacts_title">Sync contacts</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Display photos: WiFi only</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Recommended to enable, otherwise it will consume the network traffic</string>
-  <string name="find_device">Find device</string>
-  <string name="find_device_stop_noise">Click \"OK\" to stop sound</string>
+    <string name="app_name">Sinc con Mi Cloud</string>
+    <string name="sync_item_sms_title">Sinc mensajes</string>
+    <string name="sync_item_sms_summary">Sinc your text messages sent and received on this phone</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
+    <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're conntected to a WLAN network"</string>
+    <string name="pref_title_sync_my_profile_title">Sync profile</string>
+    <string name="pref_title_sync_contacts_title">Sync contacts</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Only use Wi-fi to sync photos</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
+    <string name="find_device_stop_noise">Tap OK to silence</string>
+    <string name="find_device_noise_title">Locate device sound</string>
+    <string name="sync_item_calllog_title">Sync call logs</string>
+    <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
 </resources>
