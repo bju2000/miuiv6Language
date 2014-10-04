@@ -5,58 +5,8 @@
   <string name="activating">Activando...</string>
   <string name="alarm_message_12_hour_formate">h:mm aa</string>
   <string name="alwaysUsePrompt">Establecer como predeterminado</string>
-  <string name="android_byteShort">@*android:string/byteShort</string>
-  <string name="android_capital_off">@*android:string/capital_off</string>
-  <string name="android_capital_on">@*android:string/capital_on</string>
-  <string name="android_common_last_name_prefixes">@*android:string/common_last_name_prefixes</string>
-  <string name="android_common_name_conjunctions">@*android:string/common_name_conjunctions</string>
-  <string name="android_common_name_prefixes">@*android:string/common_name_prefixes</string>
-  <string name="android_common_name_suffixes">@*android:string/common_name_suffixes</string>
-  <string name="android_default_audio_route_name_headphones">@*android:string/default_audio_route_name_headphones</string>
-  <string name="android_factorytest_reboot">@*android:string/factorytest_reboot</string>
-  <string name="android_fast_scroll_alphabet">@*android:string/fast_scroll_alphabet</string>
-  <string name="android_fileSizeSuffix">@*android:string/fileSizeSuffix</string>
-  <string name="android_gigabyteShort">@*android:string/gigabyteShort</string>
-  <string name="android_global_action_power_off">@*android:string/global_action_power_off</string>
-  <string name="android_global_actions_airplane_mode_off_status">@*android:string/global_actions_airplane_mode_off_status</string>
-  <string name="android_global_actions_airplane_mode_on_status">@*android:string/global_actions_airplane_mode_on_status</string>
-  <string name="android_global_actions_toggle_airplane_mode">@*android:string/global_actions_toggle_airplane_mode</string>
-  <string name="android_kilobyteShort">@*android:string/kilobyteShort</string>
-  <string name="android_lockscreen_access_pattern_cell_added">@*android:string/lockscreen_access_pattern_cell_added</string>
-  <string name="android_lockscreen_access_pattern_cleared">@*android:string/lockscreen_access_pattern_cleared</string>
-  <string name="android_lockscreen_access_pattern_detected">@*android:string/lockscreen_access_pattern_detected</string>
-  <string name="android_lockscreen_access_pattern_start">@*android:string/lockscreen_access_pattern_start</string>
-  <string name="android_lockscreen_emergency_call">@*android:string/lockscreen_emergency_call</string>
-  <string name="android_lockscreen_glogin_checking_password">@*android:string/lockscreen_glogin_checking_password</string>
-  <string name="android_lockscreen_glogin_forgot_pattern">@*android:string/lockscreen_glogin_forgot_pattern</string>
-  <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
-  <string name="android_lockscreen_glogin_invalid_input">@*android:string/lockscreen_glogin_invalid_input</string>
-  <string name="android_lockscreen_glogin_password_hint">@*android:string/lockscreen_glogin_password_hint</string>
-  <string name="android_lockscreen_glogin_submit_button">@*android:string/lockscreen_glogin_submit_button</string>
-  <string name="android_lockscreen_glogin_too_many_attempts">@*android:string/lockscreen_glogin_too_many_attempts</string>
-  <string name="android_lockscreen_missing_sim_message_short">@*android:string/lockscreen_missing_sim_message_short</string>
-  <string name="android_megabyteShort">@*android:string/megabyteShort</string>
-  <string name="android_petabyteShort">@*android:string/petabyteShort</string>
-  <string name="android_phoneTypeMms">@*android:string/phoneTypeMms</string>
-  <string name="android_power_off">@*android:string/power_off</string>
-  <string name="android_report">@*android:string/report</string>
-  <string name="android_ringtone_default_with_actual">@*android:string/ringtone_default_with_actual</string>
-  <string name="android_ringtone_silent">@*android:string/global_action_toggle_silent_mode</string>
-  <string name="android_ringtone_unknown">@*android:string/ringtone_unknown</string>
-  <string name="android_shutdown_confirm">@*android:string/shutdown_confirm</string>
-  <string name="android_shutdown_progress">@*android:string/shutdown_progress</string>
-  <string name="android_silent_mode_ring">@*android:string/silent_mode_ring</string>
-  <string name="android_silent_mode_silent">@*android:string/silent_mode_silent</string>
-  <string name="android_silent_mode_vibrate">@*android:string/silent_mode_vibrate</string>
-  <string name="android_ssl_certificate">@*android:string/ssl_certificate</string>
-  <string name="android_storage_usb">@*android:string/storage_usb</string>
-  <string name="android_terabyteShort">@*android:string/terabyteShort</string>
   <string name="today">Hoy</string>
   <string name="tomorrow">Mañana</string>
-  <string name="android_usb_cd_installer_notification_title">@*android:string/usb_cd_installer_notification_title</string>
-  <string name="android_usb_mtp_notification_title">@*android:string/usb_mtp_notification_title</string>
-  <string name="android_usb_ptp_notification_title">@*android:string/usb_ptp_notification_title</string>
-  <string name="android_wifi_tether_configure_ssid_default">@*android:string/wifi_tether_configure_ssid_default</string>
   <string name="yesterday">Ayer</string>
   <string name="arbor_day">植树节</string>
   <string name="autumn_begins">立秋</string>
@@ -582,4 +532,47 @@ Memoria disponible actualmente %2$s"</string>
   <string name="sim_in_airplane_mode">Deshabilita el modo avión</string>
   <string name="android_PinMmi">@*android:string/PinMmi</string>
   <string name="sim_changed_reactivate_int_notice">SIM inactiva, ¿Activar ahora?</string>
+  <string name="kg_emergency_call_label">Llamada emergencia</string>
+    <string name="kg_forgot_pattern_button_text">Patron olvidado</string>
+    <string name="kg_wrong_pattern">Patron erróneo</string>
+    <string name="kg_wrong_password">Contraseña errónea</string>
+    <string name="kg_wrong_pin">PIN erróneo</string>
+    <string name="kg_too_many_failed_attempts_countdown">Prubea de nuevo en %1$d segundos.</string>
+    <string name="kg_pattern_instructions">Dibuja el patrón</string>
+    <string name="kg_sim_pin_instructions">Introduce SIM PIN</string>
+    <string name="kg_pin_instructions">Introduce PIN</string>
+    <string name="kg_password_instructions">Introduce contraseña</string>
+    <string name="kg_puk_enter_puk_hint">SIM deshabilitada. Inserta el PUK para continuar.</string>
+    <string name="kg_puk_enter_pin_hint">Introduce el PIN deseado</string>
+    <string name="kg_enter_confirm_pin_hint">Confirma el PIN deseado</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando SIM…</string>
+    <string name="kg_password_wrong_pin_code">PIN Incorrecto.</string>
+    <string name="kg_invalid_sim_pin_hint">El PIN debe contener entre 4 y 8 dígitos.</string>
+    <string name="kg_invalid_sim_puk_hint">El PUK debe tener 8 o más dígitos.</string>
+    <string name="kg_invalid_puk">Reintroduce el código PUK.</string>
+    <string name="kg_invalid_confirm_pin_hint">No coinciden los PIN</string>
+    <string name="kg_login_too_many_attempts">Demasiados intentos</string>
+    <string name="kg_login_instructions">Para desbloquear, logueate con tu cuenta Google.</string>
+    <string name="kg_login_username_hint">Usuario (email)</string>
+    <string name="kg_login_password_hint">Contraseña</string>
+    <string name="kg_login_submit_button">Log in</string>
+    <string name="kg_login_invalid_input">Usuario o contraseña incorrecta.</string>
+    <string name="kg_login_account_recovery_hint">"¿Has olvidado tu usuario o contraseña?
+Visita "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Comprobando cuenta…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Has introducido el PIN %d veces mal. 
+
+Vuelve a intentarlo en %d segundos."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Has introducido tu contraseña %d veces mal. 
+
+Inténtalo de nuevo en %d segundos."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Has dibujado el patrón %d veces mal. 
+
+Inténtalo de nuevo en %d segundos."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Has intentado desbloquear el teléfono %d veces mal. Después de %d intentos, el teléfono se reseteará a los valores de fábrica.</string>
+    <string name="kg_failed_attempts_now_wiping">Has intentado desbloquear el teléfono %d veces mal, el teléfono se reseteará a los valores de fábrica.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Has dibujado el patrón de desbloqueo %d veces mal. Después de %d intentos se enviará un email a tu cuenta para poder desbloquearlo.
+
+Inténtalo de nuevo en %d segundos."</string>
+    <string name="kg_reordering_delete_drop_target_text">Eliminar</string>
 </resources>
