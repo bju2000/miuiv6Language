@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Visitados</item>
+        <item>Ranking</item>
+        <item>Nuevos</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Elegidos</item>
+        <item>Ranking</item>
+        <item>Nuevos</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Local</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Episodio</item>
+        <item>Sumario</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Todo especiales</item>
+        <item>Mis especiales</item>
+    </string-array>
+</resources>
