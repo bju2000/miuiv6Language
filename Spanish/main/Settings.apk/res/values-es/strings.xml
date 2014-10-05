@@ -3288,7 +3288,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="power_center_consume_rank">El consumo de energía</string>
     <string name="power_center_custom_title">Configuración de la batería</string>
     <string name="power_center_custom_summary_default">Optimizar los ajustes, ahorrar batería</string>
-    <string name="power_center_low_battery_title">Auto-switch</string>
+    <string name="power_center_low_battery_title">Automático</string>
     <string name="power_center_low_battery_summary_default">Cambie el modo cuando la batería está baja</string>
     <string name="power_center_low_battery_summary_dynamic">Cuando la energía restante es inferior a %1$d %% cambiar a %2$s</string>
     <string name="power_center_on_time_title">Programado</string>
@@ -3380,8 +3380,8 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">No se puede eliminar: El dispositivo está configurado para cambiar a esta configuración cuando la batería está baja, usted tiene que cambiar sus ajustes de la batería antes de poder eliminar esta configuración.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">No se puede borrar: Esta configuración puede estar en uso. Es necesario cambiar la configuración de la batería antes de poder eliminar esta configuración.</string>
     <string name="power_save_choose_mode">Elija una configuración</string>
-    <string name="power_save_low_battery_title">Auto-switch</string>
-    <string name="power_save_low_battery_auto_save_title">Auto-switch</string>
+    <string name="power_save_low_battery_title">Automático</string>
+    <string name="power_save_low_battery_auto_save_title">Automático</string>
     <string name="power_save_low_battery_seekbar_title">Batería cambiará los modos cuando la energía restante es inferior a %1$d %%</string>
     <string name="power_save_low_battery_option_title">Si la batería está baja interruptor para</string>
     <string name="power_save_low_battery_option_summary">Cuando la batería está por encima del umbral bajo, el dispositivo se revertirá a la configuración utilizados recientemente</string>
@@ -3432,14 +3432,11 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="menu_item_force_stop">Forzar detención </string>
     <string name="menu_item_uninstall">Desinstalar</string>
     <string name="menu_item_app_details">Detalles</string>
-	<string name="perm_mian_name">Permiso</string>
+	<string name="perm_mian_name">Permisos</string>
     <string name="perm_manage_tab_title">Permisos</string>
     <string name="app_manage_tab_title">Aplicaciones</string>
     <string name="app_log_tab_title">Registro Permiso</string>
-    
-    
-    
-    
+    <string name="perm_su_enable_summary">Permitir a las pps obterner permisos root</string>
     <string name="auto_start_summary">%1$d aplicaciones pueden iniciar automáticamente</string>
     <string name="auto_start_title">Gestión Auto-start</string>
     <string name="perm_app_enable">Supervisar las solicitudes de permiso</string>
@@ -3521,10 +3518,10 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="valuation">Clean recomendado</string>
     <string name="virus_scan">Detección de virus</string>
     <string name="network_assistant">Uso de datos</string>
-    <string name="anti_spam">Blocklist</string>
-    <string name="permission_mgr">Permiso</string>
+    <string name="anti_spam">Antispam</string>
+    <string name="permission_mgr">Permisos</string>
     <string name="cleaner">Limpiador</string>
-    <string name="power_mgr">Poder</string>
+    <string name="power_mgr">Batería</string>
     <string name="quick_cleanup">Limpiar</string>
     <string name="protection_adb">Depuración de USB</string>
     <string name="protection_perm">El ajuste de permisos</string>
@@ -3557,7 +3554,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="black_white_list_tab_title">Filtros</string>
     <string name="call_log_tab_title">Registro de llamadas.</string>
     <string name="mms_log_tab_title">Registro de mensajes</string>
-    <string name="fw_blacklist">Blocklist</string>
+    <string name="fw_blacklist">Antispam</string>
     <string name="fw_whitelist">Excepciones</string>
     <string name="enable_firewall">Bloquear las llamadas no deseadas</string>
     <string name="fw_action_settings">Ajustes de filtro</string>
@@ -3578,7 +3575,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="show_firewall_notification">Mostrar notificaciones de bloque</string>
     <string name="show_notification">Mostrar notificaciones</string>
     <string name="opt_reject_blacklist">Rechazar llamadas de números de lista de bloques</string>
-    <string name="opt_reject_blacklist_stranger">Rechazar llamadas de números desconocidos en blocklist</string>
+    <string name="opt_reject_blacklist_stranger">Rechazar llamadas de números desconocidos en antispam</string>
     <string name="opt_reject_blacklist_stranger_summary">Las llamadas desde números bloqueados serán rechazadas automáticamente</string>
     <string name="opt_accept_whitelist">Acepte llamadas de números en la lista de excepciones</string>
     <string name="opt_reject_all">Rechazar todas las llamadas</string>
@@ -3679,7 +3676,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="remove_keyword">Eliminar esta palabra clave?</string>
     <string name="remove_all_keywords">Eliminar todas las palabras clave?</string>
     <string name="remove_delete">Eliminar</string>
-    <string name="blacklist_tab_title">Blocklist</string>
+    <string name="blacklist_tab_title">Antispam</string>
     <string name="whitelist_tab_title">Excepciones</string>
     <string name="log_count">( %d )</string>
     <string name="new_bw_list_button">Añadir un contacto</string>
@@ -3691,7 +3688,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="turn_on_smart_antispam_title">Identificar números desconocidos</string>
     <string name="turn_on_smart_antispam_summary_on">Sólo está disponible cuando está conectado a WiFi o red 3G</string>
     <string name="turn_on_smart_antispam_summary_off">Filtrar sobre la base de datos número local</string>
-    <string name="button_start_optimize">Cheque</string>
+    <string name="button_start_optimize">Comprobar</string>
     <string name="percent_mark">%</string>
     <string name="cancel_scan">Cancelar</string>
     <string name="cancel_optimize">Cancelar</string>
@@ -3728,8 +3725,8 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="mem_unlock">Desbloquear</string>
     <string name="last_check_date_today">La mayor parte de exploración reciente: Hoy </string>
     <string name="last_check_date_yesterday">La mayor parte de exploración reciente: Ayer </string>
-    <string name="last_check_never_checked">Analiza recomendada (la primera vez)</string>
-    <string name="last_check_canceled">Exploración anterior fue cancelado</string>
+    <string name="last_check_never_checked">Analisis recomendado (la primera vez)</string>
+    <string name="last_check_canceled">Exploración anterior fue cancelada</string>
     <string name="last_checked_default">Exploración más reciente fue %s hace días</string>
     <string name="examination_score_100">Todo se ve bien!</string>
     <string name="examination_score_80_100">Algunos artículos se pueden optimizar</string>
@@ -3756,8 +3753,8 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_garbage_text_error">&amp;Error</string>
     <string name="menu_item_notification_power_text">Poder</string>
-    <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
-    <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
+    <string name="menu_item_notification_antispam_text_normal">Antispam</string>
+    <string name="menu_item_notification_antispam_text_avail">Antispam</string>
     <string name="button_text_view_power">Ver el poder</string>
     <string name="notification_title_firewall_blocked">Bloqueado</string>
     <string name="pref_category_title_securitycenter_settings">Configuración del Centro de Seguridad</string>

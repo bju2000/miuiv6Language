@@ -100,7 +100,6 @@
   <string name="theme_import_data">Importando temas preestrablecidos</string>
   <string name="resource_comment_sending">Enviando comentario...</string>
   <string name="resource_comment_upload_failed">Comentario enviado fallido</string>
-  <string name="resource_comment_upload_success">¡Comentario enviado! Se muestra después de la auditoría</string>
   <string name="resource_comment_upload_data_invalid">El comentario no es válido</string>
   <string name="resource_comment_upload_not_logined">Por favor, primero regístrese</string>
   <string name="resource_comment_upload_not_bought">Debe utilizar el tema antes de hacer comentarios.</string>
