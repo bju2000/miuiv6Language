@@ -180,4 +180,24 @@
   <string name="resource_tip_select_ringtone">Tono de llamada no ha sido seleccionada</string>
   <string name="loading_resource_detail_info">Cargando...</string>
   <string name="account_abnormal_state">¡Información de la cuenta anormal, intente iniciar sesión de nuevo o vuelva a intentarlo más tarde!</string>
+   <string name="theme_user_agreement_content1">"Pulsando Aceptar , aceptas los términos indicados en "</string>
+    <string name="theme_user_agreement_content2">Acuerdo de usuario</string>
+    <string name="theme_user_agreement_content3">" y "</string>
+    <string name="theme_user_agreement_content4">Política de privacidad</string>
+    <string name="theme_user_agreement_content5">.</string>
+    <string name="theme_user_agreement_title">Condiciones de uso</string>
+    <string name="theme_user_agreement_allow">Aceptar</string>
+    <string name="theme_user_agreement_remind_never">"No mostrar de nuevo"</string>
+    <string name="theme_user_agreement_remind_again">Mostrar terminos de uso</string>
+    <string name="theme_user_agreement_remind_summary">Mostrar términos de uso cada vez. Estos ajustes surtirán efecto tras reiniciar.</string>
+	<string name="account_info">Mi cuenta</string>
+	<string name="resource_selected">Destacado</string>
+    <string name="resource_ranking">Popular</string>
+    <string name="resource_ranking_free">Gratis</string>
+    <string name="resource_ranking_purchase">Pago</string>
+    <string name="resource_category">Categoría</string>
+    <string name="resource_my">Local</string>
+	<string name="resource_share_title">Compartir</string>
+	<string name="resource_download_trial">Prueba gratis</string>
+	<string name="resource_comment_upload_success">Tu comentario se mostrará después de ser revisado.</string>
 </resources>
