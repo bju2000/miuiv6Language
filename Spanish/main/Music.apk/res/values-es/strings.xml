@@ -255,4 +255,6 @@
     <string name="sync_enable_toast">Puedes cambiar estos ajustes en Ajustes > Cuentas > Mi cloud</string>
 	<string name="pay_service_guide_new">Música de alta calidad disponible</string>
 	<string name="impunity_declaration_ignore">"No mostrar de nuevo"</string>
+	<string name="expired">Cancelado</string>
+    <string name="enabled">Habilitar</string>
 </resources>
