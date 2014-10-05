@@ -93,8 +93,8 @@ Para activar su cuenta, siga el enlace en el mensaje de activación."</string>
     <string name="data_sync_notice">"Utilice su cuenta de Mi sincronizar los mensajes y contactos a través de dispositivos."</string>
     <string name="cmcc_data_sync_notice">"Mensajes de sincronización y contactos a través de dispositivos."</string>
     <string name="sync_dspt">"Habilitar sincronización"</string>
-    <string name="sync_sub_1_sms">"Un mensaje de texto será enviado a predicar su tarjeta SIM con esta cuenta. Usted puede incurrir en cargos regulares de su proveedor de servicio móvil."</string>
-    <string name="sync_sub_1_intl_sms">"Un mensaje de texto será enviado a predicar su tarjeta SIM con esta cuenta. Usted puede incurrir en cargos adicionales de su proveedor de servicio móvil."</string>
+    <string name="sync_sub_1_sms">"Un mensaje de texto será enviado para asociar su tarjeta SIM con esta cuenta. Usted puede incurrir en cargos regulares de su proveedor de servicio móvil."</string>
+    <string name="sync_sub_1_intl_sms">"Un mensaje de texto será enviado para asociar su tarjeta SIM con esta cuenta. Usted puede incurrir en cargos adicionales de su proveedor de servicio móvil."</string>
     <string name="sync_sub_2_sms">"Se enviarán 2 mensajes de texto a enlazar sus tarjetas SIM con esta cuenta. Usted puede incurrir en cargos regulares de su proveedor de servicio móvil."</string>
     <string name="sync_sub_2_intl_sms">"Se enviarán 2 mensajes de texto a enlazar sus tarjetas SIM con esta cuenta. Usted puede incurrir en cargos adicionales de su proveedor de servicio móvil."</string>
     <string name="sync_sub_1_sms_1_intl_sms">"Se enviarán 2 mensajes de texto a enlazar sus tarjetas SIM con esta cuenta. Usted puede incurrir en cargos adicionales de su proveedor de servicio móvil."</string>
@@ -172,7 +172,7 @@ Para activar su cuenta, siga el enlace en el mensaje de activación."</string>
     <string name="micloud_dspt">"Copia de seguridad de sus datos, localizar el teléfono, y compartir cosas con tus amigos."</string>
     <string name="cmcc_micloud_dspt">"Copia de seguridad de sus datos, localizar el teléfono, y compartir cosas con tus amigos."</string>
     <string name="start_micloud">"Volver a Mi Nube página de inicio"</string>
-    <string name="disable_micloud">" Deje de usar Mi Nube "</string>
+    <string name="disable_micloud"><u>No usar Mi Nube</u></string>
     <string name="master_alert_notif_title">"Última sincronización %s hace días"</string>
     <string name="sub_alert_notif_title">"No sincronizar"</string>
     <string name="alert_notif_title_dspt">"No sincronizar"</string>

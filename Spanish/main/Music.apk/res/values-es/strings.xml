@@ -247,4 +247,12 @@
   <string name="album_artist_format" formatted="false">%s , %s</string>
   <string name="channel_postfix">MHZ</string>
   <string name="channel_format" formatted="false">%s %s MHZ</string>
+  <string name="sync_alert_title">Sinc música</string>
+    <string name="sync_alert_message">Sincroniza tu música favorita entre dispositivos con Mi Account.</string>
+    <string name="not_now">Ahora no</string>
+    <string name="sync_disable_toast">Puedes habilitar la sincronización más tarde en Ajustes > Cuentas > Mi cloud</string>
+    <string name="login_and_enable">Inicia sesión</string>
+    <string name="sync_enable_toast">Puedes cambiar estos ajustes en Ajustes > Cuentas > Mi cloud</string>
+	<string name="pay_service_guide_new">Música de alta calidad disponible</string>
+	<string name="impunity_declaration_ignore">"No mostrar de nuevo"</string>
 </resources>

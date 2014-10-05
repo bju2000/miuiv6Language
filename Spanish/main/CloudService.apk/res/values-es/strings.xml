@@ -2,15 +2,15 @@
 <resources>
     <string name="app_name">Sinc con Mi Cloud</string>
     <string name="sync_item_sms_title">Sinc mensajes</string>
-    <string name="sync_item_sms_summary">Sinc your text messages sent and received on this phone</string>
-    <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
-    <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're conntected to a WLAN network"</string>
-    <string name="pref_title_sync_my_profile_title">Sync profile</string>
-    <string name="pref_title_sync_contacts_title">Sync contacts</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Only use Wi-fi to sync photos</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
-    <string name="find_device_stop_noise">Tap OK to silence</string>
-    <string name="find_device_noise_title">Locate device sound</string>
-    <string name="sync_item_calllog_title">Sync call logs</string>
-    <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
+    <string name="sync_item_sms_summary">Sinc tus mensajes de texto enviados y recibidos en este teléfono</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Sólo usar WiFi para sinc MMS</string>
+    <string name="sub_sync_item_sms_summary">"Sólo sinc mensajes que contienen fotos,audio u otro tipo de contenido multimedia cuando estás conectado a redes WiFi"</string>
+    <string name="pref_title_sync_my_profile_title">Sinc perfil</string>
+    <string name="pref_title_sync_contacts_title">Sinc contactos</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Sólo usar WiFi para sincronizar fotos</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">"Sólo sinc fotografías de contactos cuando estés conectado a redes WiFi"</string>
+    <string name="find_device_stop_noise">Pulsa Aceptar para silenciar</string>
+    <string name="find_device_noise_title">Localizar sonidos</string>
+    <string name="sync_item_calllog_title">Sinc registro de llamadas</string>
+    <string name="sync_item_calllog_summary">Sinc registro de llamadas hechos y recibidos en este teléfono</string>
 </resources>

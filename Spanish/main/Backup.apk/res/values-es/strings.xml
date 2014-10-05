@@ -183,4 +183,9 @@
   <string name="select_backup_item">Seleccione elemento backup</string>
   <string name="restore_data">Restaurar datos</string>
   <string name="backup_data">Backup datos</string>
+   <string name="cloud_app_backup_title">Copia a Mi Cloud</string>
+    <string name="cloud_app_just_show_in_current_device">Sólo mostrar apps en este dispositivo</string>
+    <string name="cloud_app_mine">Apps descargadas</string>
+    <string name="cloud_app_backup_summary">Copiar automáticamente las apps y los datos de usuario cuando el teléfono esté cargando y conectadoa una red WiFi</string>
+    <string name="cloud_app_function_summary">Cunado copias tus datos a Mi Cloud, puedes restaurarlo rápidamente en cualquier dispositivo</string>
 </resources>

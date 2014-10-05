@@ -3072,7 +3072,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="optimize_title_residual">Residuos</string>
     <string name="button_text_quick_scan">Escanear</string>
     <string name="button_text_a_key_clean_up">Limpiar</string>
-    <string name="button_text_a_key_optimize">Optimice</string>
+    <string name="button_text_a_key_optimize">Optimizar</string>
     <string name="button_text_a_key_uninstall">Desinstalar</string>
     <string name="button_text_done">Hecho </string>
     <string name="button_text_cancel">Cancelar</string>
