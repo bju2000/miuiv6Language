@@ -15,4 +15,15 @@
     <string name="device">Modelo de teléfono</string>
     <string name="standard_version_instruction">Configuración actual de memoria interna Jiayu G3QC/G3QCT/G4B/G4T, si tu terminal no es ninguno de la lista elige el modelo correspondiente, tras seleccionarlo el terminal se reiniciará</string>
     <string name="stronger_version_instruction">Configuración actual de memoria interna Jiayu G4A, si tu terminal no es ninguno de la lista elige el modelo correspondiente, tras seleccionarlo el terminal se reiniciará</string>	
+	<string name="sound_switch">Sonido</string>
+    <string name="boot_sound">Boot Sound</string>
+    <string name="boot_sound_summary">Enable/Disable boot sound</string>
+    <string name="camera_sound">Sonido de cámara</string>
+    <string name="camera_sound_summary">Habilita/Deshabilita sonido de cámara</string>
+    <string name="camera_focus_sound">Sonido de enfoque</string>
+    <string name="camera_focus_sound_summary">Habilita/Deshabilita sonido de enfoque</string>
+    <string name="videorecord_sound">Sonido de videocámara</string>
+    <string name="videorecord_sound_summary">Habilita/Deshabilita sonido de videocámara</string>
+    <string name="default_memory">Cambiar memoria principal</string>
+    <string name="default_memory_summary">Activa este botón para hacer la memoria interna memoria por defecto del terminal</string>
 </resources>

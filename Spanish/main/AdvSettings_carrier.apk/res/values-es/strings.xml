@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stocks_app">zte apps</string>
+    <string name="app_name">Ajustes avanzados</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_section1">Sistema</string>
+    <string name="title_section2">Otro</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_system">Sistema</string>
+    <string name="switch_title">boton</string>
+    <string name="miuisettings">Proveedor</string>
+    <string name="custom_carrier_mtk_dualsim">Texto de proveedor personalizado</string>
+    <string name="custom_carrier_1">SIM 1</string>
+    <string name="custom_carrier_2">SIM2</string>
+    <string name="custom_carrier_isnotset">No establecido</string>
+</resources>

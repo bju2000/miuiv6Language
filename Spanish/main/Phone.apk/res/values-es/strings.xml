@@ -951,4 +951,7 @@ Try again or call customer service for more options."</string>
     <string name="call_record_sd_error_miui">Error al acceder a la tarjeta SD.</string>
     <string name="call_record_sd_space_low_miui">No hay espacio: Tarjeta SD llena.</string>
     <string name="call_record_path_name_of_sdcard_miui">Tarjeta SD</string>
+	<string name="always_enable_mms_miui">Siempre recibir MMS</string>
+    <string name="always_enable_mms_summary_miui">Recibir MMS incluso si los datos están deshabilitados</string>
+	<string name="preferred_network_type_title_miui">Tipos de red preferidas</string>
 </resources>

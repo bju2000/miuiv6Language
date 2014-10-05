@@ -3834,4 +3834,11 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="virus_scan_unknown_virus_name">Desconocido</string>
     <string name="virus_scan_is_cloud_scanning">La exploración de la nube ...</string>
     <string name="virus_scan_clean_dialog_message">Limpieza ...</string>
+	 <string name="bt_hci_snoop_log">Habilitar Bluetooth HCI snoop log</string>
+    <string name="bt_hci_snoop_log_summary">Captura todos los paquetes de Bluetooth HCI en un fichero</string>
+    <string name="bt_trace_log">Habilitar registro de seguimiento Bluetooth</string>
+    <string name="bt_trace_log_summary">Habilitar registro de seguimiento Bluetooth</string>
+	<string name="app_feedback">Reportar fallo</string>
+	<string name="accessibility_service_no_apps_prompt">TalkBack proporciona información para ayudar a los usuarios ciegos y con baja visión hablado. Obtener este servicio de forma gratuita desde la tienda Play Google.</string>
+    <string name="accessibility_service_no_apps_confirm">Aceptar</string>
 	</resources>

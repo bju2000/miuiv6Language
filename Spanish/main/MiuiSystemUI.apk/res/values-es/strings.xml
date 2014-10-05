@@ -299,4 +299,6 @@
     <string name="settings_no_carrier">Ninguno</string>
 	<string name="settings_show_carrier_summary">Cuando este boton esté apagado, el nombre de operador solo saldrá al desplegar la barra de notificaciones</string>
 	<string name="settings_show_screenshot_notification">Mostrar mensaje de captura de pantalla</string>
+	<string name="settings_statusbar_style">Ajustes de estilo</string>
+    <string name="center_clock_title">Centrar reloj</string>
 </resources>
