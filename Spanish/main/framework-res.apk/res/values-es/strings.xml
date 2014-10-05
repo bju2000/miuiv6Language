@@ -1346,4 +1346,5 @@ Inténtalo en %d segundos."</string>
 
  Inténtalo en %d segundos."</string>
     <string name="kg_reordering_delete_drop_target_text">Eliminar</string>
+	<string name="restr_pin_enter_pin">Introduce PIN</string>
 </resources>

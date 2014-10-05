@@ -131,7 +131,7 @@
   <string name="usb_notification_ptp_ticker_text">USB conectado(Fotos)</string>
   <string name="move_data_to_sdcard_title">Migrar datos a la SD</string>
   <string name="move_data_to_sdcard_message">Se moverá Datos como imágenes, fotos y así sucesivamente de almacenamiento interno para tarjeta SD. Para asegurarse de experimentar el uso de suave y estable, es mejor mantener la tarjeta SD en el teléfono para el uso diario.</string>
-  <string name="user_guide_for_notification">Bienvenid@ a MIUI Jiayu Nuevo aviso, puedes bajar la barra de estado para consultar detalles</string>
+  <string name="user_guide_for_notification">Bienvenid@ a MIUI, puedes bajar la barra de estado para consultar detalles</string>
   <string name="user_guide_for_toggle">La lista de ajustes se puede desplazar de manera horizontal</string>
   <string name="user_guide_for_toggle_list">Click para personalizar la lista de ajustes</string>
   <string name="return_to_incall_screen">Haga clic para volver a llamar</string>
@@ -293,4 +293,10 @@
     <string name="filter_item_description">Puedes \"Mostrar o no mostrar avisos en barra de estado o notificación\" el tipo de notificación es por aplicación</string>
 	<string name="settings_status_bar">Barra de estado</string>
   <string name="status_bar_toggle_network_type_action">com.mediatek.engineermode/.networkselect.NetworkSelectActivity</string>
+  <string name="settings_advanced">Ajustes adicionales</string>
+  <string name="settings_show_carrier">Mostrar proveedor</string>
+    <string name="settings_custom_carrier">Editar nombre de proveedor</string>
+    <string name="settings_no_carrier">Ninguno</string>
+	<string name="settings_show_carrier_summary">Cuando este boton esté apagado, el nombre de operador solo saldrá al desplegar la barra de notificaciones</string>
+	<string name="settings_show_screenshot_notification">Mostrar mensaje de captura de pantalla</string>
 </resources>

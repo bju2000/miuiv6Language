@@ -444,9 +444,18 @@
   <string name="wifi_display_options_forget">Olvidar</string>
   <string name="wifi_display_options_done">Hecho</string>
   <string name="wifi_display_options_name">Nombre</string>
-  <string name="wifi_display_summary_on">Enceder</string>
+  <string name="wifi_display_summary_on">Encender</string>
   <string name="wifi_display_summary_off">Apagar</string>
   <string name="wifi_display_summary_disabled">Deshabilitado</string>
+  <string name="wifi_display_certification_heading">Certificación</string>
+    <string name="wifi_display_session_info">Info sesión</string>
+    <string name="wifi_display_listen_mode">Habilitar modo escucha</string>
+    <string name="wifi_display_autonomous_go">Habilitar modo autónomo GO</string>
+    <string name="wifi_display_pause">Pausa</string>
+    <string name="wifi_display_resume">Continuar</string>
+    <string name="wifi_display_wps_config">Configuración WPS</string>
+    <string name="wifi_display_listen_channel">Canal de escucha</string>
+    <string name="wifi_display_operating_channel">Canal de operación</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_quick_toggle_summary">Permitir el intercambio de datos cuando el teléfono toque otro dispositivo</string>
   <string name="android_beam_settings_title">Android Beam</string>
@@ -3036,4 +3045,13 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="title_font_current">Actual</string>
 	<string name="use_network_warning">Necesitas una conexión a internet para sincronizar con Mi Cuenta</string>
 	<string name="google_backup_section_title">Copia de seguridad Google</string>
+	<string name="select_runtime_warning_message">¿Reiniciar para cambiar el modo de ejecución de %1$s a %2$s?</string>
+	<string name="xiaomi_router_notif_title">Notificación Mi Router</string>
+    <string name="xiaomi_router_notif_summary">Notificarme cuando haya un Mi Router disponible</string>
+	<string name="wifi_scan_always_available">Escaneo siempre activo</string>
+    <string name="wifi_scan_always_available_summary">"Permitir a los servicios Google de localización y a otras apps escanear redes incluso cuando WiFi está apagado"</string>
+    <string name="wifi_install_credentials">Instalar certificados</string>
+	<string name="wfd_settings_description">Conectar a pantalla por WiFi</string>
+    <string name="wifi_tether_starting">Activando Zona WiFi…</string>
+    <string name="wifi_tether_stopping">Desactivando Zona WiFi…</string>
 	</resources>
