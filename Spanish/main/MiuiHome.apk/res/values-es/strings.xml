@@ -44,7 +44,7 @@
   <string name="editing_tips">Editar o añadir gadget</string>
   <string name="cant_remove_system_app">No se puede borrar una aplicación del sistema</string>
   <string name="cant_remove_retained_app">No se puede desinstalar aplicaciones personalizadas por el operador</string>
-  <string name="uninstall_dialog_title_format">Desinstalar</string>
+  <string name="uninstall_dialog_title_format">Desinstalar %s</string>
   <string name="uninstall_dialog_message">Desinstalar borrará todos los datos</string>
   <string name="uninstall">Desinstalar</string>
   <string name="starting_preset_app">Comenzando</string>
