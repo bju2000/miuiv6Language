@@ -2877,7 +2877,6 @@
   <string name="wifi_priority_type_summary">Permite ajustar manualmente la prioridad para cada punto de acceso</string>
   <string name="wifi_priority_settings_title">Configuración de la prioridad de AP</string>
   <string name="wifi_priority_settings_summary">Haga clic para definir la prioridad de cada punto de acceso</string>
-
   <string name="wifi_priority_changed" formatted="false">Prioridad valor anterior=%s,nuevo valor=%s</string>
   <string name="wifi_configured_ap_list">Recordar lista de puntos de acceso</string>
   <string name="change_data_conn_title">Cambiar conexión de datos</string>
@@ -3052,8 +3051,8 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="wifi_scan_always_available_summary">"Permitir a los servicios Google de localización y a otras apps escanear redes incluso cuando WiFi está apagado"</string>
     <string name="wifi_install_credentials">Instalar certificados</string>
 	<string name="wfd_settings_description">Conectar a pantalla por WiFi</string>
-    <string name="wifi_tether_starting">Activando Zona WiFi…</string>
-    <string name="wifi_tether_stopping">Desactivando Zona WiFi…</string>
+    
+    
 	
 	
 	
@@ -3407,7 +3406,6 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="power_consume_total_hardware">Hardware: %1$d %%</string>
     <string name="power_consume_other">Otro</string>
     <string name="battery_desc_other_apps">La potencia total que se consume en otras aplicaciones</string>
-    <string name="power_settings_title">Rendimiento del sistema</string>
     <string name="power_settings_category_title">Indicador de la batería </string>
     <string name="power_settings_shape">Gráfica</string>
     <string name="power_settings_number">Porcentaje</string>
@@ -3434,170 +3432,14 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="menu_item_force_stop">Forzar detención </string>
     <string name="menu_item_uninstall">Desinstalar</string>
     <string name="menu_item_app_details">Detalles</string>
-    <string name="application_info_label">Informacion de app</string>
-    <string name="version_text">versión %1$s</string>
-    <string name="security_relative">Relacionados con la seguridad</string>
-    <string name="privacy_relative">Relacionada Privacidad</string>
-    <string name="perm_mian_name">Permiso</string>
-    <string name="perm_app_name">Permisos</string>
+	<string name="perm_mian_name">Permiso</string>
     <string name="perm_manage_tab_title">Permisos</string>
     <string name="app_manage_tab_title">Aplicaciones</string>
     <string name="app_log_tab_title">Registro Permiso</string>
-    <string name="perm_copyright">Desarrollado por LBE Privacy Guard</string>
-    <string name="perm_version">Versión: %1$s</string>
-    <string name="perm_configuration">Ajustes</string>
-    <string name="perm_user_app">Aplicaciones descargadas ( %d )</string>
-    <string name="perm_system_app">Aplicaciones del sistema ( %d )</string>
-    <string name="perm_system_app_label">[Aplicación del sistema]</string>
-    <string name="perm_monitored_app">Aplicaciones monitorizadas ( %1$d )</string>
-    <string name="perm_trusted_app">Aplicaciones de confianza ( %1$d )</string>
-    <string name="perm_show_system_app">Mostrar aplicaciones del sistema</string>
-    <string name="perm_hide_system_app">Ocultar aplicaciones del sistema</string>
-    <string name="perm_loading">Cargando…</string>
-    <string name="perm_operating">Trabajo ...</string>
-    <string name="perm_canceling">Cancelando...</string>
-    <string name="perm_invalid_input">Entrada no válida</string>
-    <string name="perm_service_enabled">Servicio habilitado</string>
-    <string name="perm_service_disabled">Servicio desactivado</string>
-    <string name="perm_summary_enabled">Encendido</string>
-    <string name="perm_summary_disabled">Apagado</string>
-    <string name="perm_enable">Habilitar administrador de permisos</string>
-    <string name="perm_disable">Desactivar</string>
-    <string name="perm_optimize">Optimice</string>
-    <string name="perm_check">Cheque</string>
-    <string name="perm_clean">Limpio</string>
-    <string name="perm_good">Bueno </string>
-    <string name="perm_update">Actualización</string>
-    <string name="perm_shortcut">Menú contextual</string>
-    <string name="perm_hips_action_accept_count">Permitido: %1$d</string>
-    <string name="perm_hips_action_reject_count">Denegado: %1$d</string>
-    <string name="perm_hips_group_expense">Seguridad</string>
-    <string name="perm_hips_group_pim">Información personal</string>
-    <string name="perm_hips_group_location">{0}{/0} {1}Posicionamiento{/1}</string>
-    <string name="perm_hips_group_phoneid">Identificación del teléfono</string>
-    <string name="perm_hips_group_internet">Acceso a internet</string>
-    <string name="perm_hips_group_data_privacy">Privacidad</string>
-    <string name="perm_hips_group_root">Raíz</string>
-    <string name="perm_hips_mobile_network">Red móvil</string>
-    <string name="perm_hips_mobile_network_desc">Red móvil</string>
-    <string name="perm_hips_mobile_network_hint">%1$s aplicaciones se les permite acceder a Internet a través de redes móviles</string>
-    <string name="perm_hips_wifi_network">Red WLAN</string>
-    <string name="perm_hips_wifi_network_desc">Red WLAN</string>
-    <string name="perm_hips_wifi_network_hint">%1$s aplicaciones se les permite acceder a Internet a través de WLAN</string>
-    <string name="perm_hips_network_unknown_addr">Dirección desconocida</string>
-    <string name="perm_hips_network_mobile_event">a través de la red móvil</string>
-    <string name="perm_hips_network_wifi_event">través de la red WLAN</string>
-    <string name="perm_hips_network_accept">aceptar la conexión de %1$s</string>
-    <string name="perm_hips_network_connect">conectarse a %1$s</string>
-    <string name="perm_hips_network_listen">escuchar en el puerto %1$s</string>
-    <string name="perm_hips_network_recv">recibir datos</string>
-    <string name="perm_hips_network_send">enviar datos</string>
-    <string name="perm_hips_root">Raíz</string>
-    <string name="perm_hips_root_desc">Permisos de root Solicitud</string>
-    <string name="perm_hips_root_desc_stable">Función no está disponible en esta versión de MIUI</string>
-    <string name="perm_hips_root_hint">%1$s aplicaciones están autorizados a obtener permisos de root</string>
-    <string name="perm_hips_send_sms_recipient">Beneficiario:</string>
-    <string name="perm_hips_send_sms_content">Contenido</string>
-    <string name="perm_hips_send_sms_smsc">Centro SMS:</string>
-    <string name="perm_hips_send_sms_smsc_default">Centro SMS predeterminado</string>
-    <string name="perm_hips_send_sms_port">Puerto Desk:</string>
-    <string name="perm_hips_send_sms_data">Enviar SMS a %1$s : %2$d</string>
-    <string name="perm_hips_send_sms_text">Enviar SMS a %1$s</string>
-    <string name="perm_hips_call_number">Llame a %1$s</string>
-    <string name="perm_hips_contact_access">Lea la lista de contactos</string>
-    <string name="perm_hips_sms_access">Leer bandeja de entrada de SMS</string>
-    <string name="perm_hips_calllog_access">Leer los registros de llamadas</string>
-    <string name="perm_hips_location_source_network">Fuente: red</string>
-    <string name="perm_hips_location_source_gps">Fuente: GPS</string>
-    <string name="perm_hips_location_source_cellular">Fuente: red móvil</string>
-    <string name="perm_hips_location_cell_location">Obtener localización móvil</string>
-    <string name="perm_hips_location_cellinfo">Obtener localización móvil</string>
-    <string name="perm_hips_location_monitor">El seguimiento de su posición</string>
-    <string name="perm_hips_location_access">Obtener su posición actual</string>
-    <string name="perm_hips_phoneid_imei">Obtener el número de IMEI</string>
-    <string name="perm_hips_phoneid_imeisn">Obtener IMEI / SN</string>
-    <string name="perm_hips_phoneid_iccid">Obtener la tarjeta SIM SN</string>
-    <string name="perm_hips_phoneid_number">Obtenga su número de teléfono</string>
-    <string name="perm_hips_phoneid_imsi">Obtenga el número de IMSI</string>
-    <string name="perm_hips_allow_all">Permitir Todas</string>
-    <string name="perm_hips_prompt_all">Impulsar todos</string>
-    <string name="perm_hips_reject_all">Denegar todo</string>
-    <string name="perm_hips_root_title">Obtener permisos de root</string>
-    <string name="perm_hips_listen_call_state">Monitor de estado de la llamada</string>
-    <string name="perm_hips_get_call_state">Obtener estado de la llamada actual</string>
-    <string name="perm_hips_end_call">Colgar llamada actual</string>
-    <string name="perm_hips_answer_call">Conteste la llamada actual</string>
-    <string name="perm_hips_silence_ringer">Silencio del timbre</string>
-    <string name="perm_hips_cancel_missed_calls">Claro notificación de llamadas perdidas</string>
-    <string name="perm_hips_adjust_volume_incall">Ajuste el volumen en llamada</string>
-    <string name="perm_hips_adjust_ringer_volume">Ajuste el volumen del timbre</string>
-    <string name="perm_hips_security_prompt_caption">Advertencia de seguridad</string>
-    <string name="perm_hips_security_prompt_title">%1$s está tratando de% 2$s</string>
-    <string name="perm_hips_security_prompt_remember">Recuerde mi selección</string>
-    <string name="perm_hips_security_prompt_accept">Permitir ( %d )</string>
-    <string name="perm_hips_security_prompt_reject">Deny ( %d )</string>
-    <string name="perm_hips_security_prompt_accept_root">Permitir</string>
-    <string name="perm_hips_security_prompt_next">Siguiente</string>
-    <string name="perm_hips_security_prompt_root_caption">Advertencia</string>
-    <string name="perm_hips_security_prompt_root_step1">Otorgar %1$s permisos de root?</string>
-    <string name="perm_hips_security_prompt_root_step2">La concesión de permisos de root puede desestabilizar su dispositivo.</string>
-    <string name="perm_hips_security_prompt_root_step3">La seguridad de sus datos puede verse comprometida.</string>
-    <string name="perm_hips_security_prompt_root_step4">Algunas aplicaciones con permisos de root pueden dañar el hardware del dispositivo.</string>
-    <string name="perm_hips_security_prompt_root_step5">Tenga cuidado: Sólo conceder permisos de root a las aplicaciones de fuentes de confianza.</string>
-    <string name="perm_hips_security_prompt_root_step6">Otorgar %1$s permisos de root?</string>
-    <string name="perm">Permisos</string>
-    <string name="perm_app">Aplicaciones</string>
-    <string name="perm_log">Registro</string>
-    <string name="perm_header">Seguimiento de %1$d aplicaciones</string>
-    <string name="perm_header_disabled">Monitor de Permiso desactivado</string>
-    <string name="perm_su_switch">Permisos de root</string>
-    <string name="perm_su">Gestionar los permisos de root</string>
-    <string name="perm_su_desc">Monitoreo %1$d aplicaciones con permisos de root</string>
-    <string name="perm_su_desc1">Gestionar los permisos de root</string>
-    <string name="perm_su_disabled">Permisos de root está deshabilitado</string>
-    <string name="perm_su_disabled_in_stable">Permisos de root no está disponible en esta versión de MIUI</string>
-    <string name="perm_su_disabled_in_stable_desc">La concesión de permisos de root para aplicaciones de terceros puede desestabilizar su dispositivo, poner en peligro la seguridad de sus datos, y / o daños en el hardware del dispositivo. Descarga la acumulación desarrollador de MIUI para permitir permisos de root.</string>
-    <string name="perm_su_disabled_desc">La concesión de permisos de root para aplicaciones de terceros puede desestabilizar su dispositivo, poner en peligro la seguridad de sus datos, y / o daños en el hardware del dispositivo. Descarga la acumulación desarrollador de MIUI para permitir permisos de root.</string>
-    <string name="perm_su_disabled_in_stable_download">Descarga MIUI</string>
-    <string name="perm_hips_switch">Gerente de Permiso</string>
-    <string name="perm_hips">Administrar los permisos de aplicaciones</string>
-    <string name="perm_hips_desc">Monitoreando %1$d aplicaciones por seguridad y privacidad</string>
-    <string name="perm_hips_desc1">Monitoreo de aplicaciones de seguridad y privacidad</string>
-    <string name="perm_hips_desc2">Monitoreando %1$d aplicaciones por seguridad y privacidad</string>
-    <string name="perm_hips_risky">Permisos de riesgo ( %1$d )</string>
-    <string name="perm_hips_safe">Permisos normales ( %1$d )</string>
-    <string name="perm_auto_start">Gestionar aplicaciones de inicio automático</string>
-    <string name="perm_auto_start_desc">Administrar los permisos de inicio automático de aplicaciones</string>
-    <string name="perm_hips_disable_title">Gerente de Permiso</string>
-    <string name="perm_hips_disable_content">MIUI se detendrá monitorear las solicitudes de aplicaciones y la seguridad del contenido de la aplicación relacionada.</string>
-    <string name="perm_su_enable_title">Permisos de root</string>
-    <string name="perm_su_enable_summary">Permitir a las aplicaciones obtener permisos de root</string>
-    <string name="perm_su_enable_content">Permitir que las aplicaciones para solicitar permisos de root. Tenga cuidado, la concesión de permisos de root para aplicaciones de terceros pueden desestabilizar su dispositivo, poner en peligro la seguridad de sus datos, y / o daños en el hardware del dispositivo.</string>
-    <string name="perm_log_clear_title">Borrar Registro</string>
-    <string name="perm_log_clear_content">Registros de permisos claros?</string>
-    <string name="perm_privacy_count">Permitido: %1$d | denegado: %2$d</string>
-    <string name="perm_privacy_app_trust_summary">Trusted</string>
-    <string name="perm_privacy_app_count">%1$d permisos</string>
-    <string name="perm_privacy_app_trust">Confía en esta aplicación</string>
-    <string name="perm_privacy_app_trust_summary_off">Avisadme de esta aplicación solicita permiso para llevar a cabo una acción</string>
-    <string name="perm_privacy_app_trust_summary_on">Conceder automáticamente las solicitudes de permisos de esta aplicación</string>
-    <string name="perm_privacy_app_manage">Detalles</string>
-    <string name="perm_privacy_app_uninstall">Desinstalar</string>
-    <string name="perm_privacy_app_log">Registros</string>
-    <string name="perm_privacy_app_installed">Instalación completa!</string>
-    <string name="perm_privacy_app_finish">Acabar</string>
-    <string name="perm_privacy_app_launch">Lanzamiento</string>
-    <string name="perm_privacy_app_trust_dialog_title">Confía en esta aplicación</string>
-    <string name="perm_privacy_app_trust_dialog_content">No se le notificará cuando esta aplicación ejecuta acciones de seguridad o privacidad relacionados.</string>
-    <string name="perm_sysopt_boost_boot">Iniciando</string>
-    <string name="perm_sysopt_boost_receiver">Fondo</string>
-    <string name="perm_sysopt_boost_auto_start_group">Auto-start</string>
-    <string name="perm_sysopt_boost_auto_start">Auto-start</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Permitir aplicación se inicie automáticamente</string>
-    <string name="perm_su_enable_dialog">%1$s está solicitando permiso raíz que ha sido desactivado por defecto para proteger la seguridad de su sistema.</string>
-    <string name="perm_notice">Nota</string>
-    <string name="trust_switch_dialog_msg">No se le notificará cuando esta aplicación ejecuta acciones de seguridad o privacidad relacionados.</string>
-    <string name="auto_startup_dialog_msg">App se iniciará automáticamente sin preguntar primero. Esto puede aumentar el consumo de energía y / o el uso de datos.</string>
+    
+    
+    
+    
     <string name="auto_start_summary">%1$d aplicaciones pueden iniciar automáticamente</string>
     <string name="auto_start_title">Gestión Auto-start</string>
     <string name="perm_app_enable">Supervisar las solicitudes de permiso</string>
@@ -3701,36 +3543,16 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="start_optimize_trash">Iniciar optimizar caché de la aplicación ...</string>
     <string name="finish_optimize_trash">Termine la optimización caché de la aplicación ...</string>
     <string name="optimizing">Optimización</string>
-    <string name="virus_scanner_title">Escáner de virus</string>
-    <string name="virus_scanner_scanning">Escaneando...</string>
-    <string name="virus_scanner_scan">Toque para escanear</string>
-    <string name="virus_scanner_select_lib">Seleccione las definiciones de virus</string>
-    <string name="virus_scanner_select_trust_lib">Seleccione las definiciones de virus</string>
-    <string name="virus_scanner_update_lib">Actualizar definiciones</string>
-    <string name="virus_scanner_select_multi">Selección de más de un conjunto de definiciones se ralentizará la instalación y el escaneo</string>
-    <string name="virus_scanner_select_single">Utilice únicamente las definiciones de una fuente confiable.</string>
-    <string name="virus_scanner_provider">Definiciones proporcionadas por %s</string>
     <string name="virus_scanner_module">Tencent</string>
-    <string name="virus_scanner_auto_update">Actualizar automáticamente</string>
-    <string name="virus_scanner_date_formater">MMM dd aaaa</string>
-    <string name="virus_scanner_manual_update">Actualizado %s</string>
-    <string name="virus_scanner_lib_updating">Actualización de las definiciones ...</string>
-    <string name="virus_scanner_lib_already_latest">Usted ya está usando las últimas definiciones</string>
-    <string name="virus_scan_app_safe_scanning">Escaneando...</string>
-    <string name="virus_scan_app_multi_engines">La exploración puede tomar más tiempo. Youre utilizando más de un conjunto de definiciones.</string>
-    <string name="virus_scan_app_scanning">Escaneando...</string>
-    <string name="virus_scan_app_waiting">Esperando ...</string>
-    <string name="virus_scan_app_passed">Escaneado</string>
-    <string name="virus_scan_app_risk">Detectado Riesgo</string>
-    <string name="virus_scan_app_stop">Detener la digitalización</string>
+   <string name="virus_scan_app_stop">Detener la digitalización</string>
     <string name="virus_scan_app_solve">Todo el procesamiento</string>
-    <string name="virus_scan_app_finish">Completa Scan</string>
-    <string name="virus_scan_app_continue">Continuar exploración</string>
-    <string name="virus_scan_app_uninstall">Retire %d</string>
-    <string name="virus_scan_app_force_stop">Escanear en pausa</string>
-    <string name="virus_scan_app_find_risk">%d riesgos encontrados</string>
-    <string name="virus_scan_app_scan_finish">Completa Scan</string>
-    <string name="virus_scan_app_no_risk">No hay riesgos encontrados</string>
+    
+    
+    
+    
+    
+    
+    
     <string name="firewall_settings_tab_title">Reglas.</string>
     <string name="black_white_list_tab_title">Filtros</string>
     <string name="call_log_tab_title">Registro de llamadas.</string>
@@ -3788,8 +3610,8 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="fw_add_list_title">Introduzca el número de teléfono</string>
     <string name="fw_menu_pick_from_contact">Seleccionar de los contactos</string>
     <string name="fw_menu_remove">Eliminar</string>
-    <string name="confirm">ok</string>
-    <string name="no">Ño</string>
+    <string name="confirm">Aceptar</string>
+    
     <string name="fw_clear_blacklist">Borrar lista de bloques</string>
     <string name="fw_clear_whitelist">Claras excepciones</string>
     <string name="fw_restore_ms">Restaurar mensajes</string>
@@ -3901,7 +3723,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="enable_anti_spam_title">Filtra los mensajes no deseados</string>
     <string name="comfirm_exit">Salida?</string>
     <string name="comfirm">Confirmar</string>
-    <string name="cancel">Cancelar</string>
+    
     <string name="mem_lock">Bloquear</string>
     <string name="mem_unlock">Desbloquear</string>
     <string name="last_check_date_today">La mayor parte de exploración reciente: Hoy </string>
@@ -3990,7 +3812,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="virus_scan_viruslib_version">Las definiciones de virus de la versión: %s</string>
     <string name="virus_scan_settings">Ajustes</string>
     <string name="virus_scanner_lib_update_success">Las definiciones de virus se han actualizado de forma automática. ^ _ ^</string>
-    <string name="virus_scanner_lib_update_failed">Error de actualización</string>
+    
     <string name="virus_scan_finish_text">Bueno, lo malo se ha ido!</string>
     <string name="virus_scan_list_loading_hits">Escaneando...</string>
     <string name="virus_scan_list_empty_content">No hay elementos sospechosos detectados</string>
@@ -4001,9 +3823,9 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="virus_scan_risk_list_empty">No hay riesgos detectados</string>
     <string name="virus_scan_virus_list_empty">No hay virus detectados</string>
     <string name="virus_scan_description">Esta aplicación es un riesgo importante para la seguridad de su teléfono.</string>
-    <string name="virus_scanner_select_OK">ok</string>
-    <string name="virus_scanner_select_Cancel">Cancelar</string>
-    <string name="virus_scan_app_is_stop_scan">Deje de escanear?</string>
+    
+    
+    
     <string name="virus_scanner_stop_title">Detener la digitalización</string>
     <string name="virus_scan_risk_button_name">Riesgo </string>
     <string name="virus_scan_package_label_unknown">desconocido</string>
