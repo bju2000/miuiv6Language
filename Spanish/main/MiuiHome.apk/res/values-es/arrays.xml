@@ -47,4 +47,10 @@
     <item>Polvo flotante</item>
     <item>Neblina</item>
   </string-array>
+  <string-array name="editing_mode_entries">
+        <item>Movee apps</item>
+        <item>Widgets</item>
+        <item>Fondos</item>
+        <item>Efectos</item>
+    </string-array>
 </resources>

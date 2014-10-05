@@ -96,9 +96,9 @@
   <string name="buffering">Buffering…</string>
   <string name="emptyplaylist">La lista de reproducción está vacía</string>
   <string name="unknown_artist_name">Artista desconocido</string>
-  <string name="global_search_hint">Pulsa Buscar</string>
+  <string name="global_search_hint">Buscar</string>
   <string name="widget_global_search">Búsqueda Global</string>
-  <string name="gadget_clear_button_label">Task Cleaner</string>
+  <string name="gadget_clear_button_label">Lib. Mem</string>
   <string name="gadget_clock_12_label">Reloj 1x2</string>
   <string name="gadget_clock_22_label">Reloj 2x2</string>
   <string name="gadget_clock_24_label">Reloj 2x4</string>
@@ -190,5 +190,13 @@
   <string name="screen_rotation_freeze_message">Bloqueado rotación de la pantalla al modo horizontal</string>
   <string name="screen_button_disabled_message">Funciones de los botones de la pantalla inferior están deshabilitados. Pulsa \"Inicio\" y \"Power\"</string>
   <string name="screen_button_enabled_message">Funciones de los botones de la pantalla inferior están habilitados</string>
-  
+  <string name="online_wallpaper">Online</string>
+  <string name="custom_wallpaper_picker">Examinar</string>
+  <string name="editing_set_wallpaper_tips">Elegir Fondo</string>
+  <string name="multi_selecting_tips">Para coger una app, pulsa su icono</string>
+  <string name="editing_add_widget_tips">Editar widgets</string>
+  <string name="settings_shortcut">Ajustes</string>
+   <string name="gadget_search_label">Buscar</string>
+    <string name="gadget_clock_label">Reloj</string>
+    <string name="gadget_photo_label">Imagen</string>
 </resources>
