@@ -575,4 +575,6 @@ Inténtalo de nuevo en %d segundos."</string>
 
 Inténtalo de nuevo en %d segundos."</string>
     <string name="kg_reordering_delete_drop_target_text">Eliminar</string>
+	
+	<string name="v5_date_time_picker_dialog_title">Hora de recordatorio</string>
 </resources>
