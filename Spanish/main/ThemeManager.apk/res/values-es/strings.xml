@@ -199,4 +199,13 @@
 	<string name="resource_share_title">Compartir</string>
 	<string name="resource_download_trial">Prueba gratis</string>
 	<string name="resource_comment_upload_success">Tu comentario se mostrará después de ser revisado.</string>
+	<string name="theme_batch_has_update_text">Actualizaciones disponibles para %1$d temas.</string>
+    <string name="theme_batch_updating_text">Actualizando (%1$d)…</string>
+    <string name="theme_batch_update_all">Actualizar todo</string>
+    <string name="theme_batch_update_dlg_title">Actualizar tema</string>
+    <string name="theme_batch_update_dlg_content">¿Actualizar %1$s y otros %2$d temas ahora?</string>
+    <string name="theme_batch_update_dlg_content_single">¿Actualizar %1$s ahora?</string>
+    <string name="theme_current_using_has_update">Actualización de tema disponible</string>
+    <string name="theme_immediately_apply_tip">¿Aplicar actualización de tema ahora?</string>
+    <string name="theme_fresh_man_notifaction">Nuevos temas disponibles</string>
 </resources>
