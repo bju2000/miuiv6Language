@@ -182,8 +182,8 @@
   <string name="birthday_event_description">¡Hoy es %1$s\'s cumpleaños!</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="jump_date">Saltar</string>
-  <string name="jump_date_full">Saltar la fecha</string>
+  <string name="jump_date">Ir a</string>
+  <string name="jump_date_full">Ir a fecha</string>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_menu_create_event">Nuevo</string>
@@ -205,4 +205,17 @@
     <string name="event_info_repeat">"Repetir: "</string>
     <string name="event_info_where">"Dónde: "</string>
     <string name="event_info_descrip">"Descripción: "</string>
+	 <string name="cta_notice_title">Recordatorio</string>
+	 <string name="cta_notice_message">\"Recordatorio cumpleaños\" en el calendario te recordará el cumpleaños de tus contactos, pero necesitará acceder a tus contactos,¿Estás de acuerdo?</string>
+    <string name="cta_notice_checkbox">"No mostrar de nuevo"</string>
+    <string name="cta_notice_ok">De acuerdo</string>
+	<string name="account_and_calendar">Cuenta y calendario</string>
+    <string name="account_and_calendar_to_display">Cuenta y calendario para mostrar</string>
+	<string name="default_reminder_mode">Modo de recordatorio</string>
+	<string name="pref_title_no_remind">Sin recordatorio</string>
+    <string name="pref_title_notification_remind">Recordatorio por Notificación</string>
+    <string name="pref_title_alert_remind">Recordatorio por Pop-up</string>
+    <string name="pref_title_alarm_remind">Recordatorio por Alarma</string>
+    <string name="pref_error_no_ringtone_select">Ninguno seleccionado</string>
+<string name="cta_notify_settings">Recordatorio cuando se accede a contactos</string>
 </resources>

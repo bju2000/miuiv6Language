@@ -86,4 +86,10 @@
   <string name="pref_title_data_export">Exportar Datos</string>
   <string name="pref_title_data_export_to_sdcard">Exportar Notas a la tarjeta SD</string>
   <string name="close">Cerrar</string>
+  <string name="pref_title_font_size">Tamaño letra</string>
+  <string name="pref_title_common">Ajustes adicionales</string>
+    <string name="pref_title_alarm_when_silent">Alarma en modo silencio</string>
+    <string name="pref_desc_alarm_when_silent">Las alarmas activas sonarán incluso cuando el teléfono esté en silencio</string>
+    <string name="dlg_title_confirm_alarm_silent">Alarma en silencio</string>
+    <string name="dlg_desc_confirm_alarm_silent">Las alarmas no sonarán cuando el teléfono esté en silencio.</string>
 </resources>
