@@ -19,13 +19,13 @@
     <string name="unlocking_sim_card">Desbloquear la tarjeta SIM</string>
     <string name="short_pukcode_error_msg">Debe ingresar al menos 8 dígitos.</string>
     <string name="short_pincode_error_msg">Por favor introduce 4-8 dígitos</string>
-    <string name="input_pin_code">Inserta PIN</string>
+    <string name="input_pin_code">Código PIN</string>
     <string name="input_pin_code_to_unlock">Introduzca el código PIN para desbloquear el dispositivo</string>
     <string name="pincode_set_to_default_msg">Código PIN es 1234, puede cambiar aquí:</string>
     <string name="incorrect_pukcode_remaining_attempts">Código PUK incorrecta, intentos restante %d</string>
     <string name="incorrect_pincode_remaining_attempts">Código PIN incorrecto, más intentos %d</string>
-    <string name="incorrect_pukcode">Incorrecta código PUK</string>
-    <string name="incorrect_pincode">Código PIN incorrecta</string>
+    <string name="incorrect_pukcode">Incorrecto código PUK</string>
+    <string name="incorrect_pincode">Código PIN incorrecto</string>
     <string name="puk_operation_failed">PUK operación ha fallado.</string>
     <string name="pin_operation_failed">PIN operación ha fallado.</string>
     <string name="return_to_me_message">En caso de pérdida por favor vuelva a</string>
