@@ -3845,4 +3845,6 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
 <string name="bluetooth_unlock_title">Desbloquear mediante Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Apagado</string>
     <string name="bluetooth_unlock_turned_on">Encendido</string>
+    <string name="security_keyguard_category_name">Pantalla bloqueo</string>
+    <string name="security_password_category_name">Contraseña</string>
 	</resources>
