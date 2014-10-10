@@ -3841,4 +3841,8 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
 	<string name="app_feedback">Reportar fallo</string>
 	<string name="accessibility_service_no_apps_prompt">TalkBack proporciona información para ayudar a los usuarios ciegos y con baja visión hablado. Obtener este servicio de forma gratuita desde la tienda Play Google.</string>
     <string name="accessibility_service_no_apps_confirm">Aceptar</string>
+    <string name="change_security_lock">Prueba otros métodos de bloqueo</string>
+<string name="bluetooth_unlock_title">Desbloquear mediante Bluetooth</string>
+    <string name="bluetooth_unlock_turned_off">Apagado</string>
+    <string name="bluetooth_unlock_turned_on">Encendido</string>
 	</resources>
