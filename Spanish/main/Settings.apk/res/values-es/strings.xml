@@ -3847,4 +3847,7 @@ Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
     <string name="bluetooth_unlock_turned_on">Encendido</string>
     <string name="security_keyguard_category_name">Pantalla bloqueo</string>
     <string name="security_password_category_name">Contraseña</string>
+    <string name="battery_settings_novotools_lite">Modo Memoria</string>
+	<string name="high_performance_notif_title">Advertencia uso batería</string>
+    <string name="high_performance_notif_summary">Modo Alto rendimiento activo.</string>
 	</resources>
