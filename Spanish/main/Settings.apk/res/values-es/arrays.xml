@@ -359,7 +359,6 @@
   <string-array name="power_mode_entries">
     <item>Modo Alto rendimiento</item>
     <item>Modo Normal</item>
-    <item>Modo de ahorro de energía</item>
   </string-array>
   <string-array name="msd_pc_system">
     <item>Windows XP o versiones anteriores</item>
