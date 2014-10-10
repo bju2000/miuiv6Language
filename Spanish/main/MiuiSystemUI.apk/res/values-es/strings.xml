@@ -301,4 +301,6 @@
 	<string name="settings_show_screenshot_notification">Mostrar mensaje de captura de pantalla</string>
 	<string name="settings_statusbar_style">Ajustes de estilo</string>
     <string name="center_clock_title">Centrar reloj</string>
+    <string name="settings_basic_settings">Ajustes básicos</string>
+	<string name="status_bar_and_notification_bar">Barra de estado</string>
 </resources>
