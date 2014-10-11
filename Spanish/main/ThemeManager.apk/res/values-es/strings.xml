@@ -208,4 +208,7 @@
     <string name="theme_current_using_has_update">Actualización de tema disponible</string>
     <string name="theme_immediately_apply_tip">¿Aplicar actualización de tema ahora?</string>
     <string name="theme_fresh_man_notifaction">Nuevos temas disponibles</string>
+    <string name="resource_account_login">Iniciar Sesión</string>
+    <string name="sdcard_not_mounted_dialog_title">No hay memoria</string>
+    <string name="sdcard_not_mounted_dialog_message">"Desmonta el almacenamiento usb o inserta una tarjeta SD."</string>
 </resources>
