@@ -211,4 +211,6 @@
     <string name="resource_account_login">Iniciar Sesión</string>
     <string name="sdcard_not_mounted_dialog_title">No hay memoria</string>
     <string name="sdcard_not_mounted_dialog_message">"Desmonta el almacenamiento usb o inserta una tarjeta SD."</string>
+    <string name="purchased_list">Temas comprados</string>
+    <string name="payment_info">Créditos Mi</string>
 </resources>
