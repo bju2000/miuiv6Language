@@ -71,4 +71,9 @@
   <string name="perm_action_prompt">Preguntar</string>
   <string name="perm_action_reject">Denegar</string>
   <string name="unknown_installer">No identificadas herramientas PC</string>
+  <string name="virus_scan_install"><u>Instalar de todas formas</u></string>
+    <string name="virus_scan_is_virus">Esta app contiene virus.</string>
+    <string name="virus_scan_is_risk">"Esta aplicación supone un risego de seguridad para tu dispositivo."</string>
+    <string name="virus_scan_clear">Eliminar</string>
+    <string name="virus_scan_caller_unknown">Desconocido</string>
 </resources>
