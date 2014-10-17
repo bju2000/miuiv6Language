@@ -59,7 +59,7 @@
   <string name="trust_switch_dialog_msg">Miui no le pedirá confirmación de ningún tipo de seguridad en las operaciones relacionadas con la privacidad de esta aplicación. Por favor, asegúrese de que lo ha entendido.\n¿Confía en esta App? </string>
   <string name="auto_startup_dialog_msg">Miui permitirá la puesta en marcha de la app de forma automática, sin preguntar. Lo que tal vez lleve a un consumo de batería o de datos.\n¿Permitir inicio automático? </string>
   <string name="low_risk_perms">Permisos con Riesgo-Bajo</string>
-  <string name="high_risk_perms">ermisos con Riesgo-Alto</string>
+  <string name="high_risk_perms">Permisos con Riesgo-Alto</string>
   <string name="perm_privacy_app_finish">Finalizar</string>
   <string name="perm_privacy_app_launch">Ejecutar</string>
   <string name="perm_privacy_app_installed">Instalación completada!</string>
@@ -76,4 +76,6 @@
     <string name="virus_scan_is_risk">"Esta aplicación supone un risego de seguridad para tu dispositivo."</string>
     <string name="virus_scan_clear">Eliminar</string>
     <string name="virus_scan_caller_unknown">Desconocido</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) reemplazará la instalada actualmente (%3$s). Tus datos se guardarán.
+¿Instalar la nueva version?"</string>
 </resources>
